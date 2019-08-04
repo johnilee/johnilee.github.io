@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>herbig ae/be on John Ilee</title>
+    <link>https://johnilee.github.io/tags/herbig-ae/be/</link>
+    <description>Recent content in herbig ae/be on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/tags/herbig-ae/be/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consistent dust and gas models for protoplanetary disks. IV. A panchromatic view of protoplanetary disks</title>
+      <link>https://johnilee.github.io/publication/2019-aa-625-a-66-d/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-aa-625-a-66-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spectroscopic survey of Herbig Ae/Be stars with X-Shooter - II. Accretion diagnostic lines</title>
+      <link>https://johnilee.github.io/publication/2017-mnras-464-4721-f/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2017-mnras-464-4721-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spectroscopic survey of Herbig Ae/Be stars with X-shooter - I. Stellar parameters and accretion rates</title>
+      <link>https://johnilee.github.io/publication/2015-mnras-453-976-f/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2015-mnras-453-976-f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

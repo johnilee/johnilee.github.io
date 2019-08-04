@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on John Ilee</title>
+    <link>https://johnilee.github.io/project/</link>
+    <description>Recent content in Projects on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Thu, 23 May 2019 21:38:06 +0100</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discs around massive young stars</title>
+      <link>https://johnilee.github.io/project/myso-submm/</link>
+      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/myso-submm/</guid>
+      <description>Stars more massive than our Sun are difficult to image directly during their early stages of formation, because these stages occur very rapidly. This means the entire formation period occurs while the star is still shrouded in the parent cloud that formed it. Due to this, and the fact that most massive young stars are located far from Earth, we know very little about how massive stars form.
+However, we can look at these massive young stellar objects (or MYSOs) using infrared wavelengths of light, which are able to penetrate the thick cloud surrounding them.</description>
+    </item>
+    
+    <item>
+      <title>Protoplanetary compositions</title>
+      <link>https://johnilee.github.io/project/planet_comps/</link>
+      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/planet_comps/</guid>
+      <description>In addition to displaying large scale spiral structure, gravitationally unstable discs are also prone to fragmentation. This process can create planetary mass objects within massive discs, and has been suggested as a possible formation mechanism for gas giants. I have investigated the chemistry in a similar disc but one in which four planetary fragements are formed. These fragments, which we named &amp;lsquo;John&amp;rsquo;, &amp;lsquo;Paul&amp;rsquo;, &amp;lsquo;George&amp;rsquo; and &amp;lsquo;Ringo&amp;rsquo; (don&amp;rsquo;t ask), were between 3 and 10 times the mass of Jupiter.</description>
+    </item>
+    
+    <item>
+      <title>The youngest circumstellar discs</title>
+      <link>https://johnilee.github.io/project/hydro-chem/</link>
+      <pubDate>Thu, 23 May 2019 21:37:52 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/hydro-chem/</guid>
+      <description>My research involves investigating the physics and chemistry at work within circumstellar discs. Stars like our Sun are created when clouds of gas and dust collapse under their own gravity. As the cloud collapses, the rotation rate of the cloud increases to conserve angular momentum. This causes the cloud to flatten out, creating a circumstellar disc around the central young star.
+Planets can then go on to form within these discs (so they are also referred to as protoplanetary discs).</description>
+    </item>
+    
+    <item>
+      <title>The innermost regions of circumstellar discs</title>
+      <link>https://johnilee.github.io/project/inner-discs/</link>
+      <pubDate>Thu, 23 May 2019 21:37:43 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/inner-discs/</guid>
+      <description>Herbig Ae/Be stars are young stellar objects with masses in between low mass young stars (or T Tauri stars) and high mass young stars (the MYSOs mentioned above). As we consider stars of larger mass, their interior structure changes, and may make it more difficult to generate magnetic fields. These magnetic fields are important because they regulate how the young stars accrete material from surrounding circumstellar discs.
+In order to investigate the inner regions of these discs, we used another spectrograph mounted on the VLT called X-Shooter.</description>
+    </item>
+    
+  </channel>
+</rss>

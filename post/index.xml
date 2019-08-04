@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on John Ilee</title>
+    <link>https://johnilee.github.io/post/</link>
+    <description>Recent content in Posts on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PHY 3281: Star &amp; Planet Formation</title>
+      <link>https://johnilee.github.io/post/spf_2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/post/spf_2018/</guid>
+      <description> University of Leeds Autumn 2018
+ Discussion 1: Bok Globules [Minerva] Workshop 1 [Minerva]
+ Discussion 2: The Initial Mass Function [Minerva] Workshop 2 [Minerva]
+ Discussion 3: Massive Star Formation [Minerva] Workshop 3 [Minerva]  </description>
+    </item>
+    
+    <item>
+      <title>AS 5002: Magnetofluids &amp; Space Plasmas</title>
+      <link>https://johnilee.github.io/post/mfsp_2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/post/mfsp_2015/</guid>
+      <description> University of St Andrews Autumn 2015
+ Molecular clouds &amp;amp; the virial theorem [Moodle] The Jeans length &amp;amp; mass [Moodle] Magnetic support mechanisms [Moodle] Cloud contraction &amp;amp; fragmentation [Moodle] The angular momentum problem [Moodle] Young stellar objects, T Tauri stars &amp;amp; discs [Moodle]  </description>
+    </item>
+    
+  </channel>
+</rss>

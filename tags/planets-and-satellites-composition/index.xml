@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>planets and satellites: composition on John Ilee</title>
+    <link>https://johnilee.github.io/tags/planets-and-satellites-composition/</link>
+    <description>Recent content in planets and satellites: composition on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/tags/planets-and-satellites-composition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Planet-forming material in a protoplanetary disc: the interplay between chemical evolution and pebble drift</title>
+      <link>https://johnilee.github.io/publication/2019-mnras-booth/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-mnras-booth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The chemistry of protoplanetary fragments formed via gravitational instabilities</title>
+      <link>https://johnilee.github.io/publication/2017-mnras-472-189-i/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2017-mnras-472-189-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical enrichment of giant planets and discs due to pebble drift</title>
+      <link>https://johnilee.github.io/publication/2017-mnras-469-3994-b/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2017-mnras-469-3994-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

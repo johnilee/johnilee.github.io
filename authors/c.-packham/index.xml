@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Packham on John Ilee</title>
+    <link>https://johnilee.github.io/authors/c.-packham/</link>
+    <description>Recent content in C. Packham on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/authors/c.-packham/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Planet formation imager: project update</title>
+      <link>https://johnilee.github.io/publication/2018-spie-10701-e-18-m/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2018-spie-10701-e-18-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planet Formation Imager (PFI): science vision and key requirements</title>
+      <link>https://johnilee.github.io/publication/2016-spie-9907-e-1-kk/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-spie-9907-e-1-kk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

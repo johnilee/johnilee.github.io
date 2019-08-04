@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Greaves on John Ilee</title>
+    <link>https://johnilee.github.io/authors/j.-greaves/</link>
+    <description>Recent content in J. Greaves on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/authors/j.-greaves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consistent Dust and Gas Models for Protoplanetary Disks. III. Models for Selected Objects from the FP7 DIANA Project</title>
+      <link>https://johnilee.github.io/publication/2019-pasp-131-f-4301-w/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-pasp-131-f-4301-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent dust and gas models for protoplanetary disks. IV. A panchromatic view of protoplanetary disks</title>
+      <link>https://johnilee.github.io/publication/2019-aa-625-a-66-d/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-aa-625-a-66-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent dust and gas models for protoplanetary disks. I. Disk shape, dust settling, opacities, and PAHs</title>
+      <link>https://johnilee.github.io/publication/2016-aa-586-a-103-w/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-aa-586-a-103-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

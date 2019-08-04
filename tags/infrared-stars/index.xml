@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infrared: stars on John Ilee</title>
+    <link>https://johnilee.github.io/tags/infrared-stars/</link>
+    <description>Recent content in infrared: stars on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/tags/infrared-stars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Investigating the inner discs of Herbig Ae/Be stars with CO bandhead and Br gamma emission</title>
+      <link>https://johnilee.github.io/publication/2014-mnras-445-3723-i/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2014-mnras-445-3723-i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
