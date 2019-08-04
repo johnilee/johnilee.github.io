@@ -51,5 +51,23 @@ Planets can then go on to form within these discs (so they are also referred to 
 In order to investigate the inner regions of these discs, we used another spectrograph mounted on the VLT called X-Shooter.</description>
     </item>
     
+    <item>
+      <title>Protoplanetary Discussions</title>
+      <link>https://johnilee.github.io/project/pp_discussions/</link>
+      <pubDate>Sat, 23 May 2015 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/pp_discussions/</guid>
+      <description>In March 2016, I co-chaired the Protoplanetary Discussions conference, held in Edinburgh, UK. The rationale of the conference was to invite observers from all wavelength regimes to share their latest results with modellers from the thermo-chemical and hydrodynamic communities in order to foster collaboration across these often separate fields. In addition to the standard format of invited and contributed talks, we also arranged specialised discussion sessions, allowing participants to interact in closer and more collaborative ways.</description>
+    </item>
+    
+    <item>
+      <title>The DIANA project</title>
+      <link>https://johnilee.github.io/project/diana/</link>
+      <pubDate>Thu, 23 May 2013 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/diana/</guid>
+      <description>The DIANA (or DIsc ANAlysis) project was a European Framework Seven (FP7) SPACE initiative to conduct a systematic collection, and coherent analysis of observational data from protoplanetary discs. The project collected public and proprietary multi-wavelength data for protoplanetary discs (e.g. Spitzer, Herschel, XMM, HST, VLT, JCMT, ALMA, eMERLIN). Large amounts of such data exist, but are currently seriously underutilised. The team reached an unprecedented level of completeness concerning the modelling of these data sets.</description>
+    </item>
+    
   </channel>
 </rss>

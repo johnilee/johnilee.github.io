@@ -531,6 +531,18 @@
     </item>
     
     <item>
+      <title>Protoplanetary Discussions</title>
+      <link>https://johnilee.github.io/project/pp_discussions/</link>
+      <pubDate>Sat, 23 May 2015 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/pp_discussions/</guid>
+      <description>&lt;p&gt;In March 2016, I co-chaired the Protoplanetary Discussions conference, held in Edinburgh, UK. The rationale of the conference was to invite observers from all wavelength regimes to share their latest results with modellers from the thermo-chemical and hydrodynamic communities in order to foster collaboration across these often separate fields. In addition to the standard format of invited and contributed talks, we also arranged specialised discussion sessions, allowing participants to interact in closer and more collaborative ways.&lt;/p&gt;
+
+&lt;p&gt;As a result of two of these discussion sessions, we wrote a overview paper concerning the forthcoming grand challenges of protoplanetary disc modelling - the inclusion of dust and gas hydrodynamics, magnetic fields, radiation transfer and chemical evolution in a self-consistent way. Rather than being a tradiational review, we preview the challenges faced with incorporating these often distinct, but fundamentally interconnected topics. You can view the paper &lt;a href=&#34;https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/grand-challenges-in-protoplanetary-disc-modelling/D1CF650E44F21FEE5076B705028F064D&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Investigating the inner discs of Herbig Ae/Be stars with CO bandhead and Br gamma emission</title>
       <link>https://johnilee.github.io/publication/2014-mnras-445-3723-i/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
@@ -564,6 +576,18 @@
       
       <guid>https://johnilee.github.io/publication/2013-aa-554-a-66-c/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The DIANA project</title>
+      <link>https://johnilee.github.io/project/diana/</link>
+      <pubDate>Thu, 23 May 2013 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/diana/</guid>
+      <description>&lt;p&gt;The DIANA (or DIsc ANAlysis) project was a European Framework Seven (FP7) SPACE initiative to conduct a systematic collection, and coherent analysis of observational data from protoplanetary discs. The project collected public and proprietary multi-wavelength data for protoplanetary discs (e.g. Spitzer, Herschel, XMM, HST, VLT, JCMT, ALMA, eMERLIN). Large amounts of such data exist, but are currently seriously underutilised. The team reached an unprecedented level of completeness concerning the modelling of these data sets. The enabled the inclusion of important physical processes such as astrochemistry, gas heating &amp;amp; cooling, dust evolution, continuum &amp;amp; line radiative transfer and non-LTE treatments.&lt;/p&gt;
+
+&lt;p&gt;In order to consistently model many objects and multiwavelength datasets, we required a set of standard assumptions about the dust and gas content of disc models. In particular, these assumptions concerned the shape of the disc, the properties of the dust, the opacities considered, the chemical reactions and initial element abundances, and the heating and cooling processes that are taken in to account. In addition to using these assumptions to model the data, we are also releasing our findings to the general community, so that others may make use of them. For more information and to see the models, please visit the &lt;a href=&#34;https://dianaproject.wp.st-andrews.ac.uk&#34; target=&#34;_blank&#34;&gt;DIANA webpages&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
