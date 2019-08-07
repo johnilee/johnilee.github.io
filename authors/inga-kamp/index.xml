@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inga Kamp on John Ilee</title>
+    <link>https://johnilee.github.io/authors/inga-kamp/</link>
+    <description>Recent content in Inga Kamp on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/authors/inga-kamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-wavelength observations of planet forming disks: Constraints on planet formation processes</title>
+      <link>https://johnilee.github.io/publication/2018-cwla-conf-89-k/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2018-cwla-conf-89-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grand Challenges in Protoplanetary Disc Modelling</title>
+      <link>https://johnilee.github.io/publication/2016-pasa-33-53-h/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-pasa-33-53-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preface</title>
+      <link>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

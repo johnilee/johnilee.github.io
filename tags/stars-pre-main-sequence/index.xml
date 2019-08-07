@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/stars-pre-main-sequence/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VizieR Online Data Catalog: X-ray data for 56 protoplanetary disk sources (Dionatos&#43; 2019)</title>
+      <link>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gravitational instabilities in a protosolar-like disc - III. Molecular line detection and sensitivities</title>
@@ -94,6 +103,15 @@
     </item>
     
     <item>
+      <title>VizieR Online Data Catalog: Herbig Ae/Be X-shooter observations (Fairlamb&#43;, 2015)</title>
+      <link>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A spectroscopic survey of Herbig Ae/Be stars with X-shooter - I. Stellar parameters and accretion rates</title>
       <link>https://johnilee.github.io/publication/2015-mnras-453-976-f/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
@@ -112,7 +130,7 @@
     </item>
     
     <item>
-      <title>Investigating the inner discs of Herbig Ae/Be stars with CO bandhead and Br gamma emission</title>
+      <title>Investigating the inner discs of Herbig Ae/Be stars with CO bandhead and Brensuremathγ emission</title>
       <link>https://johnilee.github.io/publication/2014-mnras-445-3723-i/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       

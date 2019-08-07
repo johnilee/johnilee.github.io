@@ -35,19 +35,31 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/authors/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-d.-ilee/</loc>
+    <loc>https://johnilee.github.io/authors/j.d.-ilee/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/publication/2019-mnras-booth/</loc>
+    <loc>https://johnilee.github.io/publication/2019-mnras-487-3998-b/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +70,7 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/r.-a.-booth/</loc>
+    <loc>https://johnilee.github.io/authors/r.a.-booth/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -90,6 +102,35 @@
   <url>
     <loc>https://johnilee.github.io/tags/protoplanetary-discs/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/alice-s.-booth/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/catherine-walsh/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/publication/2019-ar-xiv-190708060-b/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/john-d.-ilee/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -164,13 +205,13 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/l.-b.-f.-m.-waters/</loc>
+    <loc>https://johnilee.github.io/authors/l.-rigon/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/l.-rigon/</loc>
+    <loc>https://johnilee.github.io/authors/l.b.f.m.-waters/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -212,7 +253,7 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/w.-f.-thi/</loc>
+    <loc>https://johnilee.github.io/authors/w.f.-thi/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -255,6 +296,12 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/tags/accretion/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/authors/c.-baldovin-saavedra/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -272,13 +319,13 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/p.-degroote/</loc>
+    <loc>https://johnilee.github.io/tags/herbig-ae/be/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/tags/accretion/</loc>
+    <loc>https://johnilee.github.io/authors/p.-degroote/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -297,12 +344,6 @@
   
   <url>
     <loc>https://johnilee.github.io/tags/circumstellar-matter/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/herbig-ae/be/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -330,372 +371,36 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-bayo/</loc>
+    <loc>https://johnilee.github.io/authors/m.-guedel/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-cooray/</loc>
+    <loc>https://johnilee.github.io/tags/spectroscopy/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-g%C3%A1sp%C3%A1r/</loc>
+    <loc>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/x-ray-sources/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-isella/</loc>
+    <loc>https://johnilee.github.io/tags/stars-pre-main-sequence/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-izidoro/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/a.-wootten/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/b.-bitsch/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/c.-hall/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/c.-mcnally/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/d.-apai/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/d.-carrera/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/d.-leisawitz/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/d.-mawet/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/d.-sengupta/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/d.-stamatellos/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/d.-wilner/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/e.-bergin/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/f.-alarcon/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/f.-du/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/g.-golabek/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/g.-lodato/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/g.-mamatsashvili/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/g.-picogna/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/h.-jang-condell/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/h.-klahr/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/h.-shang/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/i.-cleeves/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/i.-pascucci/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-ilee/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-jorgensen/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-monnier/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-s.-kim/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-simon/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-szul%C3%A1gyi/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-white/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/k.-pontoppidan/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/l.-ricci/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/m.-gurwell/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/m.-kama/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/m.-meixner/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/m.-m.-mac-low/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/n.-cuello/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/n.-leigh/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/n.-turner/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/n.-van-der-marel/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/o.-gressel/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/o.-umurhan/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2019-ar-xiv-190304546-l/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.-dong/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.-teague/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-casassus/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-krijt/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-maddison/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-p%C3%A9rez/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/t.-currie/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/t.-haworth/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/t.-lichtenberg/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/w.-lyra/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/a.-c.-boley/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/c.-j.-cyganowski/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/c.-l.-brogan/</loc>
+    <loc>https://johnilee.github.io/authors/a.c.-boley/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -707,7 +412,19 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/d.-h.-forgan/</loc>
+    <loc>https://johnilee.github.io/authors/c.j.-cyganowski/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/c.l.-brogan/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/d.h.-forgan/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -718,19 +435,19 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-m.-c.-rawlings/</loc>
+    <loc>https://johnilee.github.io/authors/j.m.c.-rawlings/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-g.-evans/</loc>
+    <loc>https://johnilee.github.io/authors/m.g.-evans/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-r.-jankovic/</loc>
+    <loc>https://johnilee.github.io/authors/m.r.-jankovic/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -753,19 +470,19 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/t.-j.-haworth/</loc>
+    <loc>https://johnilee.github.io/authors/t.j.-haworth/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/t.-r.-hunter/</loc>
+    <loc>https://johnilee.github.io/authors/t.r.-hunter/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/t.-w.-hartquist/</loc>
+    <loc>https://johnilee.github.io/authors/t.w.-hartquist/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -795,19 +512,13 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/tags/stars-pre-main-sequence/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://johnilee.github.io/tags/submillimetre-stars/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/c.-j.-clarke/</loc>
+    <loc>https://johnilee.github.io/authors/c.j.-clarke/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -818,13 +529,13 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/t.-j.-harries/</loc>
+    <loc>https://johnilee.github.io/tags/ism-individual-objects-g11.92-0.61/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/tags/ism-individual-objects-g11.92-0.61/</loc>
+    <loc>https://johnilee.github.io/authors/t.j.-harries/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -842,19 +553,31 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/d.-qu%C3%A9nard/</loc>
+    <loc>https://johnilee.github.io/authors/cassand-ra-hall/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/i.-jim%C3%A9nez-serra/</loc>
+    <loc>https://johnilee.github.io/authors/david-qu%C3%A9nard/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/k.-rice/</loc>
+    <loc>https://johnilee.github.io/authors/duncan-h.-forgan/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/izaskun-jim%C3%A9nez-serra/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/ken-rice/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -883,7 +606,7 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/c.-m.-johns-krull/</loc>
+    <loc>https://johnilee.github.io/authors/c.m.-johns-krull/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -912,6 +635,12 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/authors/m.-kama/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/authors/m.-tazzari/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -930,7 +659,7 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/tags/planetndashdisk-interactions/</loc>
+    <loc>https://johnilee.github.io/tags/planetdisk-interactions/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -958,49 +687,73 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-alonso-herrero/</loc>
+    <loc>https://johnilee.github.io/authors/alessandro-morbidelli/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-bonsor/</loc>
+    <loc>https://johnilee.github.io/authors/alexand-re-gallenne/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-chiavassa/</loc>
+    <loc>https://johnilee.github.io/authors/alexander-wallace/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-gallenne/</loc>
+    <loc>https://johnilee.github.io/authors/almudena-alonso-herrero/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-morbidelli/</loc>
+    <loc>https://johnilee.github.io/authors/amelia-bayo/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-morlok/</loc>
+    <loc>https://johnilee.github.io/authors/amy-bonsor/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-wallace/</loc>
+    <loc>https://johnilee.github.io/authors/andrea-chiavassa/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/b.-pope/</loc>
+    <loc>https://johnilee.github.io/authors/andrea-isella/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/andreas-morlok/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/attila-juhasz/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/benjamin-pope/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1011,265 +764,277 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/c.-espaillat/</loc>
+    <loc>https://johnilee.github.io/authors/catherine-espaillat/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/c.-haniff/</loc>
+    <loc>https://johnilee.github.io/authors/chris-haniff/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/c.-mordasini/</loc>
+    <loc>https://johnilee.github.io/authors/chris-mordasini/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/c.-packham/</loc>
+    <loc>https://johnilee.github.io/authors/chris-packham/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/c.-paladini/</loc>
+    <loc>https://johnilee.github.io/authors/claudia-paladini/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/c.-ramos-almeida/</loc>
+    <loc>https://johnilee.github.io/authors/cristina-ramos-almeida/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/d.-ciardi/</loc>
+    <loc>https://johnilee.github.io/authors/dave-mozurkewich/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/d.-defr%C3%A8re/</loc>
+    <loc>https://johnilee.github.io/authors/david-ciardi/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/d.-mozurkewich/</loc>
+    <loc>https://johnilee.github.io/authors/denis-defr%C3%A8re/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/e.-jensen/</loc>
+    <loc>https://johnilee.github.io/authors/edward-wishnow/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/e.-michael/</loc>
+    <loc>https://johnilee.github.io/authors/eric-jensen/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/e.-wishnow/</loc>
+    <loc>https://johnilee.github.io/authors/ernest-michael/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/f.-baron/</loc>
+    <loc>https://johnilee.github.io/authors/fabien-baron/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/f.-millour/</loc>
+    <loc>https://johnilee.github.io/authors/farzana-meru/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/g.-duch%C3%AAne/</loc>
+    <loc>https://johnilee.github.io/authors/florentin-millour/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/g.-laughlin/</loc>
+    <loc>https://johnilee.github.io/authors/gaspard-duch%C3%AAne/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/g.-vasisht/</loc>
+    <loc>https://johnilee.github.io/authors/gautum-vasisht/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/g.-weigelt/</loc>
+    <loc>https://johnilee.github.io/authors/gerard-van-belle/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/g.-van-belle/</loc>
+    <loc>https://johnilee.github.io/authors/gerd-weigelt/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/h.-e.-wheelwright/</loc>
+    <loc>https://johnilee.github.io/authors/greg-laughlin/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-d.-monnier/</loc>
+    <loc>https://johnilee.github.io/authors/h.e.-wheelwright/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-olofsson/</loc>
+    <loc>https://johnilee.github.io/authors/jean-surdej/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-surdej/</loc>
+    <loc>https://johnilee.github.io/authors/jean-baptiste-le-bouquin/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-young/</loc>
+    <loc>https://johnilee.github.io/authors/jean-francois-gonzalez/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-b.-le-bouquin/</loc>
+    <loc>https://johnilee.github.io/authors/jean-philippe-berger/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-f.-gonzalez/</loc>
+    <loc>https://johnilee.github.io/authors/joerg-uwe-pott/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-p.-berger/</loc>
+    <loc>https://johnilee.github.io/authors/johan-olofsson/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-u.-pott/</loc>
+    <loc>https://johnilee.github.io/authors/john-d.-monnier/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/k.-kratter/</loc>
+    <loc>https://johnilee.github.io/authors/john-ilee/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/k.-stassun/</loc>
+    <loc>https://johnilee.github.io/authors/john-young/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/k.-tristram/</loc>
+    <loc>https://johnilee.github.io/authors/kaitlin-kratter/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/l.-h.-quiroga-nunez/</loc>
+    <loc>https://johnilee.github.io/authors/keivan-stassun/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/l.-labadie/</loc>
+    <loc>https://johnilee.github.io/authors/konrad-tristram/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-creech-eakman/</loc>
+    <loc>https://johnilee.github.io/authors/lucas-labadie/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-ireland/</loc>
+    <loc>https://johnilee.github.io/authors/luis-henry-quiroga-nunez/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-kishimoto/</loc>
+    <loc>https://johnilee.github.io/authors/makoto-kishimoto/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-reynolds/</loc>
+    <loc>https://johnilee.github.io/authors/mark-reynolds/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-schreiber/</loc>
+    <loc>https://johnilee.github.io/authors/markus-wittkowski/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-smith/</loc>
+    <loc>https://johnilee.github.io/authors/matthias-schreiber/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-wittkowski/</loc>
+    <loc>https://johnilee.github.io/authors/michael-ireland/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-zhao/</loc>
+    <loc>https://johnilee.github.io/authors/michael-smith/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/o.-panic/</loc>
+    <loc>https://johnilee.github.io/authors/michelle-creech-eakman/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/p.-gandhi/</loc>
+    <loc>https://johnilee.github.io/authors/ming-zhao/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/p.-tuthill/</loc>
+    <loc>https://johnilee.github.io/authors/neal-turner/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/olja-panic/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/peter-tuthill/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1280,37 +1045,13 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/q.-kral/</loc>
+    <loc>https://johnilee.github.io/authors/poshak-gandhi/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/r.-d.-oudmaijer/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.-millan-gabet/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.-nelson/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.-oudmaijer/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.-petrov/</loc>
+    <loc>https://johnilee.github.io/authors/quentin-kral/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1322,97 +1063,133 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-hoenig/</loc>
+    <loc>https://johnilee.github.io/authors/r.d.-oudmaijer/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-kane/</loc>
+    <loc>https://johnilee.github.io/authors/rafael-millan-gabet/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-kraus/</loc>
+    <loc>https://johnilee.github.io/authors/rene-oudmaijer/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-lacour/</loc>
+    <loc>https://johnilee.github.io/authors/richard-nelson/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-minardi/</loc>
+    <loc>https://johnilee.github.io/authors/romain-petrov/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-n.-raymond/</loc>
+    <loc>https://johnilee.github.io/authors/ruobing-dong/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-ridgway/</loc>
+    <loc>https://johnilee.github.io/authors/sean-n.-raymond/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-rinehart/</loc>
+    <loc>https://johnilee.github.io/authors/sebastian-hoenig/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-wolf/</loc>
+    <loc>https://johnilee.github.io/authors/sebastian-wolf/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-z%C3%BA-niga-fern%C3%A1ndez/</loc>
+    <loc>https://johnilee.github.io/authors/sebastian-z%C3%BA-iga-fern%C3%A1ndez/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/t.-boyajian/</loc>
+    <loc>https://johnilee.github.io/authors/stefan-kraus/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/t.-ten-brummelaar/</loc>
+    <loc>https://johnilee.github.io/authors/stefano-minardi/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/w.-j.-de-wit/</loc>
+    <loc>https://johnilee.github.io/authors/stephen-kane/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/w.-kley/</loc>
+    <loc>https://johnilee.github.io/authors/stephen-ridgway/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/z.-regaly/</loc>
+    <loc>https://johnilee.github.io/authors/stephen-rinehart/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/z.-zhu/</loc>
+    <loc>https://johnilee.github.io/authors/sylvestre-lacour/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/tabetha-boyajian/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/theo-ten-brummelaar/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/wilhelm-kley/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/willem-jan-de-wit/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/zhaohuan-zhu/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/zsolt-regaly/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1423,7 +1200,7 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/d.-m.-boneberg/</loc>
+    <loc>https://johnilee.github.io/authors/d.m.-boneberg/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1458,6 +1235,24 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/authors/andres-carmona/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/christian-rab/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/inga-kamp/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/publication/2018-cwla-conf-89-k/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -1475,12 +1270,24 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/authors/stefano-antonellini/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/c.-hall/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/publication/2017-mnras-472-189-i/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/w.-k.-m.-rice/</loc>
+    <loc>https://johnilee.github.io/authors/w.k.m.-rice/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1491,19 +1298,19 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/l.-szucs/</loc>
+    <loc>https://johnilee.github.io/authors/l.-sz%C5%B1cs/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/r.-h.-durisen/</loc>
+    <loc>https://johnilee.github.io/authors/r.h.-durisen/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-j.-d.-purser/</loc>
+    <loc>https://johnilee.github.io/authors/s.j.d.-purser/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1515,12 +1322,24 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/authors/cathie-j.-clarke/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/publication/2017-mnras-469-3994-b/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/n.-madhusudhan/</loc>
+    <loc>https://johnilee.github.io/authors/nikku-madhusudhan/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/richard-a.-booth/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1538,13 +1357,13 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-juh%C3%A1sz/</loc>
+    <loc>https://johnilee.github.io/authors/attila-juh%C3%A1sz/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/g.-p.-rosotti/</loc>
+    <loc>https://johnilee.github.io/authors/giovanni-p.-rosotti/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1552,12 +1371,6 @@
   <url>
     <loc>https://johnilee.github.io/publication/2017-ap-j-839-l-24-m/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/stars-individual-elias-2ndash27/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1572,13 +1385,13 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-r.-fairlamb/</loc>
+    <loc>https://johnilee.github.io/authors/j.r.-fairlamb/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-e.-van-den-ancker/</loc>
+    <loc>https://johnilee.github.io/authors/m.e.-van-den-ancker/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1592,6 +1405,41 @@
   <url>
     <loc>https://johnilee.github.io/tags/techniques-spectroscopic/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/publication/2017-sman-23-2-i/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/claudia-j.-cyganowski/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/crystal-l.-brogan/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/pooneh-nazari/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/qizhou-zhang/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/todd-r.-hunter/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1636,13 +1484,13 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/d.-j.-price/</loc>
+    <loc>https://johnilee.github.io/authors/daniel-j.-price/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/g.-laibe/</loc>
+    <loc>https://johnilee.github.io/authors/dominika-m.-boneberg/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1653,19 +1501,67 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-a.-hutchison/</loc>
+    <loc>https://johnilee.github.io/authors/guillaume-laibe/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/o.-pani%C4%87/</loc>
+    <loc>https://johnilee.github.io/authors/jean-fran%C3%A7ois-gonzalez/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/t.-suzuki/</loc>
+    <loc>https://johnilee.github.io/authors/mark-a.-hutchison/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/olja-pani%C4%87/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/peter-woitke/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/richard-teague/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/stefano-facchini/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/subhanjoy-mohanty/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/takeru-suzuki/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/thomas-j.-haworth/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/wladimir-lyra/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1683,79 +1579,109 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-matter/</loc>
+    <loc>https://johnilee.github.io/authors/alexis-matter/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-pierens/</loc>
+    <loc>https://johnilee.github.io/authors/arnaud-pierens/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/c.-baruteau/</loc>
+    <loc>https://johnilee.github.io/authors/bertram-bitsch/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/d.-buscher/</loc>
+    <loc>https://johnilee.github.io/authors/christophe-pinte/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/e.-l.-n.-jensen/</loc>
+    <loc>https://johnilee.github.io/authors/clement-baruteau/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/f.-masset/</loc>
+    <loc>https://johnilee.github.io/authors/david-buscher/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-pepper/</loc>
+    <loc>https://johnilee.github.io/authors/eric-l.n.-jensen/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/k.-r.-w.-tristram/</loc>
+    <loc>https://johnilee.github.io/authors/frederic-masset/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/l.-h.-quiroga-nu-nez/</loc>
+    <loc>https://johnilee.github.io/authors/gautam-vasisht/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-benisty/</loc>
+    <loc>https://johnilee.github.io/authors/giovanni-rosotti/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-j.-ireland/</loc>
+    <loc>https://johnilee.github.io/authors/joshua-pepper/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/m.-r.-bate/</loc>
+    <loc>https://johnilee.github.io/authors/j%C3%B6rg-uwe-pott/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/p.-armitage/</loc>
+    <loc>https://johnilee.github.io/authors/konrad-r.w.-tristram/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/luis-henry-quiroga-nu-ez/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/matthew-r.-bate/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/michael-j.-ireland/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/myriam-benisty/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/phil-armitage/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1766,33 +1692,56 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/r.-p.-nelson/</loc>
+    <loc>https://johnilee.github.io/authors/richard-p.-nelson/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-h%C3%B6nig/</loc>
+    <loc>https://johnilee.github.io/authors/sean-raymond/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-r.-kane/</loc>
+    <loc>https://johnilee.github.io/authors/sebastian-h%C3%B6nig/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-raymond/</loc>
+    <loc>https://johnilee.github.io/authors/sijme-jan-paardekooper/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/s.-j.-paardekooper/</loc>
+    <loc>https://johnilee.github.io/authors/stephen-r.-kane/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/steve-ridgway/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/tim-j.-harries/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/stars-variable/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1819,6 +1768,12 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/authors/w.-f.-thi/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/tags/line-formation/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1836,7 +1791,7 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/a.-c.-carciofi/</loc>
+    <loc>https://johnilee.github.io/authors/a.c.-carciofi/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1852,13 +1807,19 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/i.-mendigut%C3%ADa/</loc>
+    <loc>https://johnilee.github.io/authors/i.-mendigut%C4%B1%CC%81a/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/r.-g.-vieira/</loc>
+    <loc>https://johnilee.github.io/authors/r.g.-vieira/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/w.j.-de-wit/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1880,14 +1841,25 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/j.-s.-greaves/</loc>
+    <loc>https://johnilee.github.io/authors/jane-s.-greaves/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/project/pp_discussions/</loc>
     <lastmod>2015-05-23T21:38:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/be/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1902,7 +1874,7 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/tags/be/</loc>
+    <loc>https://johnilee.github.io/authors/s.-kraus/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1921,29 +1893,6 @@
   
   <url>
     <loc>https://johnilee.github.io/authors/b.-davies/</loc>
-    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/k.-murakawa/</loc>
-    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/m.-g.-hoare/</loc>
-    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2013-mnras-436-511-m/</loc>
-    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-l.-lumsden/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1985,18 +1934,76 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/authors/k.-murakawa/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/m.g.-hoare/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/publication/2013-mnras-436-511-m/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/s.l.-lumsden/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/publication/2013-mnras-433-2064-d/</loc>
     <lastmod>2013-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/t.-a.-douglas/</loc>
+    <loc>https://johnilee.github.io/authors/t.a.-douglas/</loc>
     <lastmod>2013-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/authors/j.c.-mottram/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/j.s.-urquhart/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/l.t.-maud/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/t.j.t.-moore/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/publication/2013-prpl-conf-2-b-010-i/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/authors/a.-caratti-o-garatti/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/g.-weigelt/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2008,7 +2015,13 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/l.-v.-tambovtseva/</loc>
+    <loc>https://johnilee.github.io/tags/ism-jets-and-outflows/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/l.v.-tambovtseva/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2025,13 +2038,7 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/v.-p.-grinin/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/ism-jets-and-outflows/</loc>
+    <loc>https://johnilee.github.io/authors/v.p.-grinin/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2054,6 +2061,12 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/authors/john-david-ilee/</loc>
+    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/publication/2013-ph-dt-2-i/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -2061,30 +2074,6 @@
   <url>
     <loc>https://johnilee.github.io/publication/2013-mnras-429-2960-i/</loc>
     <lastmod>2013-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-c.-mottram/</loc>
-    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-s.-urquhart/</loc>
-    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/l.-t.-maud/</loc>
-    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/t.-j.-t.-moore/</loc>
-    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2107,6 +2096,11 @@
   <url>
     <loc>https://johnilee.github.io/publication/2011-mnras-417-2950-i/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/publication/2011-iaus-280-p-202-i/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

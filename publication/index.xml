@@ -14,10 +14,19 @@
     
     <item>
       <title>Planet-forming material in a protoplanetary disc: the interplay between chemical evolution and pebble drift</title>
-      <link>https://johnilee.github.io/publication/2019-mnras-booth/</link>
+      <link>https://johnilee.github.io/publication/2019-mnras-487-3998-b/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/publication/2019-mnras-booth/</guid>
+      <guid>https://johnilee.github.io/publication/2019-mnras-487-3998-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First detections of H13CO&#43; and HC15N in the disk around HD 97048: Evidence for a cold gas reservoir in the outer disk</title>
+      <link>https://johnilee.github.io/publication/2019-ar-xiv-190708060-b/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-ar-xiv-190708060-b/</guid>
       <description></description>
     </item>
     
@@ -40,11 +49,11 @@
     </item>
     
     <item>
-      <title>Planet formation: The case for large efforts on the computational side</title>
-      <link>https://johnilee.github.io/publication/2019-ar-xiv-190304546-l/</link>
+      <title>VizieR Online Data Catalog: X-ray data for 56 protoplanetary disk sources (Dionatos&#43; 2019)</title>
+      <link>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/publication/2019-ar-xiv-190304546-l/</guid>
+      <guid>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</guid>
       <description></description>
     </item>
     
@@ -184,6 +193,15 @@
     </item>
     
     <item>
+      <title>A Keplerian Disk Around a Massive Young Proto-O Star</title>
+      <link>https://johnilee.github.io/publication/2017-sman-23-2-i/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2017-sman-23-2-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>G11.92-0.61 MM1: a Keplerian disc around a massive young proto-O star</title>
       <link>https://johnilee.github.io/publication/2016-mnras-462-4386-i/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -220,6 +238,15 @@
     </item>
     
     <item>
+      <title>VizieR Online Data Catalog: Herbig Ae/Be X-shooter observations (Fairlamb&#43;, 2015)</title>
+      <link>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Consistent dust and gas models for protoplanetary disks. I. Disk shape, dust settling, opacities, and PAHs</title>
       <link>https://johnilee.github.io/publication/2016-aa-586-a-103-w/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
@@ -247,7 +274,7 @@
     </item>
     
     <item>
-      <title>High-resolution Br gamma spectro-interferometry of the transitional Herbig Ae/Be star HD 100546: a Keplerian gaseous disc inside the inner rim</title>
+      <title>High-resolution Br ensuremathγ spectro-interferometry of the transitional Herbig Ae/Be star HD 100546: a Keplerian gaseous disc inside the inner rim</title>
       <link>https://johnilee.github.io/publication/2015-mnras-453-2126-m/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
@@ -265,7 +292,16 @@
     </item>
     
     <item>
-      <title>Investigating the inner discs of Herbig Ae/Be stars with CO bandhead and Br gamma emission</title>
+      <title>Preface</title>
+      <link>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the inner discs of Herbig Ae/Be stars with CO bandhead and Brensuremathγ emission</title>
       <link>https://johnilee.github.io/publication/2014-mnras-445-3723-i/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
@@ -288,6 +324,15 @@
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2013-mnras-433-2064-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing discs around massive YSOs using CO emission</title>
+      <link>https://johnilee.github.io/publication/2013-prpl-conf-2-b-010-i/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2013-prpl-conf-2-b-010-i/</guid>
       <description></description>
     </item>
     
@@ -333,6 +378,15 @@
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2011-mnras-417-2950-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the chemistry of a gravitationally unstable protoplanetary disc</title>
+      <link>https://johnilee.github.io/publication/2011-iaus-280-p-202-i/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2011-iaus-280-p-202-i/</guid>
       <description></description>
     </item>
     

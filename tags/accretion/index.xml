@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>accretion on John Ilee</title>
+    <title>Accretion on John Ilee</title>
     <link>https://johnilee.github.io/tags/accretion/</link>
-    <description>Recent content in accretion on John Ilee</description>
+    <description>Recent content in Accretion on John Ilee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
@@ -18,6 +18,15 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2019-aa-625-a-66-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VizieR Online Data Catalog: X-ray data for 56 protoplanetary disk sources (Dionatos&#43; 2019)</title>
+      <link>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</guid>
       <description></description>
     </item>
     
@@ -58,6 +67,15 @@
     </item>
     
     <item>
+      <title>VizieR Online Data Catalog: Herbig Ae/Be X-shooter observations (Fairlamb&#43;, 2015)</title>
+      <link>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A spectroscopic survey of Herbig Ae/Be stars with X-shooter - I. Stellar parameters and accretion rates</title>
       <link>https://johnilee.github.io/publication/2015-mnras-453-976-f/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
@@ -67,7 +85,7 @@
     </item>
     
     <item>
-      <title>High-resolution Br gamma spectro-interferometry of the transitional Herbig Ae/Be star HD 100546: a Keplerian gaseous disc inside the inner rim</title>
+      <title>High-resolution Br ensuremathγ spectro-interferometry of the transitional Herbig Ae/Be star HD 100546: a Keplerian gaseous disc inside the inner rim</title>
       <link>https://johnilee.github.io/publication/2015-mnras-453-2126-m/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       

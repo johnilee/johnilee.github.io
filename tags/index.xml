@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Astrophysics - Earth and Planetary Astrophysics</title>
+      <link>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astrophysics - Solar and Stellar Astrophysics</title>
+      <link>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>astrochemistry</title>
       <link>https://johnilee.github.io/tags/astrochemistry/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -49,11 +67,29 @@
     </item>
     
     <item>
-      <title>accretion</title>
+      <title>Astrophysics - Astrophysics of Galaxies</title>
+      <link>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accretion</title>
       <link>https://johnilee.github.io/tags/accretion/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/accretion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herbig Ae/Be</title>
+      <link>https://johnilee.github.io/tags/herbig-ae/be/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/herbig-ae/be/</guid>
       <description></description>
     </item>
     
@@ -85,15 +121,6 @@
     </item>
     
     <item>
-      <title>herbig ae/be</title>
-      <link>https://johnilee.github.io/tags/herbig-ae/be/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/herbig-ae/be/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>stars: formation</title>
       <link>https://johnilee.github.io/tags/stars-formation/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
@@ -103,7 +130,7 @@
     </item>
     
     <item>
-      <title>stars: variables: t tauri</title>
+      <title>stars: variables: T Tauri</title>
       <link>https://johnilee.github.io/tags/stars-variables-t-tauri/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
@@ -112,11 +139,29 @@
     </item>
     
     <item>
-      <title>astrophysics - earth and planetary astrophysics</title>
-      <link>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</link>
+      <title>Spectroscopy</title>
+      <link>https://johnilee.github.io/tags/spectroscopy/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</guid>
+      <guid>https://johnilee.github.io/tags/spectroscopy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-ray sources</title>
+      <link>https://johnilee.github.io/tags/x-ray-sources/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/x-ray-sources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stars: pre-main sequence</title>
+      <link>https://johnilee.github.io/tags/stars-pre-main-sequence/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/stars-pre-main-sequence/</guid>
       <description></description>
     </item>
     
@@ -157,15 +202,6 @@
     </item>
     
     <item>
-      <title>stars: pre-main sequence</title>
-      <link>https://johnilee.github.io/tags/stars-pre-main-sequence/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/stars-pre-main-sequence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>submillimetre: stars</title>
       <link>https://johnilee.github.io/tags/submillimetre-stars/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -175,7 +211,7 @@
     </item>
     
     <item>
-      <title>ism: individual objects: g11.92-0.61</title>
+      <title>ISM: individual objects: G11.92-0.61</title>
       <link>https://johnilee.github.io/tags/ism-individual-objects-g11.92-0.61/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -193,7 +229,7 @@
     </item>
     
     <item>
-      <title>submillimeter: ism</title>
+      <title>submillimeter: ISM</title>
       <link>https://johnilee.github.io/tags/submillimeter-ism/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -220,11 +256,11 @@
     </item>
     
     <item>
-      <title>planetndashdisk interactions</title>
-      <link>https://johnilee.github.io/tags/planetndashdisk-interactions/</link>
+      <title>planet─disk interactions</title>
+      <link>https://johnilee.github.io/tags/planetdisk-interactions/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/planetndashdisk-interactions/</guid>
+      <guid>https://johnilee.github.io/tags/planetdisk-interactions/</guid>
       <description></description>
     </item>
     
@@ -238,6 +274,15 @@
     </item>
     
     <item>
+      <title>Astrophysics - Instrumentation and Methods for Astrophysics</title>
+      <link>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>brown dwarfs</title>
       <link>https://johnilee.github.io/tags/brown-dwarfs/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -247,7 +292,7 @@
     </item>
     
     <item>
-      <title>stars: individual: elias 227</title>
+      <title>stars: individual: Elias 227</title>
       <link>https://johnilee.github.io/tags/stars-individual-elias-227/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
@@ -265,7 +310,7 @@
     </item>
     
     <item>
-      <title>solar system and planetary formation</title>
+      <title>Solar system and planetary formation</title>
       <link>https://johnilee.github.io/tags/solar-system-and-planetary-formation/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
@@ -274,7 +319,7 @@
     </item>
     
     <item>
-      <title>star formation</title>
+      <title>Star formation</title>
       <link>https://johnilee.github.io/tags/star-formation/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
@@ -301,20 +346,11 @@
     </item>
     
     <item>
-      <title>planets and satellites: individual: jupiter</title>
+      <title>planets and satellites: individual: Jupiter</title>
       <link>https://johnilee.github.io/tags/planets-and-satellites-individual-jupiter/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/planets-and-satellites-individual-jupiter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stars: individual: elias 2ndash27</title>
-      <link>https://johnilee.github.io/tags/stars-individual-elias-2ndash27/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/stars-individual-elias-2ndash27/</guid>
       <description></description>
     </item>
     
@@ -346,7 +382,7 @@
     </item>
     
     <item>
-      <title>stars: individual: g11.92-0.61</title>
+      <title>stars: individual: G11.92-0.61</title>
       <link>https://johnilee.github.io/tags/stars-individual-g11.92-0.61/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
@@ -355,7 +391,7 @@
     </item>
     
     <item>
-      <title>magnetohydrodynamics (mhd)</title>
+      <title>magnetohydrodynamics (MHD)</title>
       <link>https://johnilee.github.io/tags/magnetohydrodynamics-mhd/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
@@ -369,6 +405,15 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/planetary-systems-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stars: variable</title>
+      <link>https://johnilee.github.io/tags/stars-variable/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/stars-variable/</guid>
       <description></description>
     </item>
     
@@ -391,7 +436,7 @@
     </item>
     
     <item>
-      <title>stars: individual: hd 100546</title>
+      <title>stars: individual: HD 100546</title>
       <link>https://johnilee.github.io/tags/stars-individual-hd-100546/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
@@ -400,7 +445,7 @@
     </item>
     
     <item>
-      <title>be</title>
+      <title>Be</title>
       <link>https://johnilee.github.io/tags/be/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
@@ -427,7 +472,7 @@
     </item>
     
     <item>
-      <title>ism: individual objects: afgl 2136</title>
+      <title>ISM: individual objects: AFGL 2136</title>
       <link>https://johnilee.github.io/tags/ism-individual-objects-afgl-2136/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
@@ -436,7 +481,7 @@
     </item>
     
     <item>
-      <title>ism: individual objects: g082.5682&#43;00.4040</title>
+      <title>ISM: individual objects: G082.5682&#43;00.4040</title>
       <link>https://johnilee.github.io/tags/ism-individual-objects-g082.5682&#43;00.4040/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
@@ -445,7 +490,7 @@
     </item>
     
     <item>
-      <title>ism: individual objects: iras 18151-1208</title>
+      <title>ISM: individual objects: IRAS 18151-1208</title>
       <link>https://johnilee.github.io/tags/ism-individual-objects-iras-18151-1208/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
@@ -454,7 +499,7 @@
     </item>
     
     <item>
-      <title>ism: individual objects: iras 19065&#43;0526</title>
+      <title>ISM: individual objects: IRAS 19065&#43;0526</title>
       <link>https://johnilee.github.io/tags/ism-individual-objects-iras-19065&#43;0526/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
@@ -463,7 +508,7 @@
     </item>
     
     <item>
-      <title>ism: individual objects: s106 irs4</title>
+      <title>ISM: individual objects: S106 IRS4</title>
       <link>https://johnilee.github.io/tags/ism-individual-objects-s106-irs4/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
@@ -472,7 +517,7 @@
     </item>
     
     <item>
-      <title>ism: individual objects: v645 cyg</title>
+      <title>ISM: individual objects: V645 Cyg</title>
       <link>https://johnilee.github.io/tags/ism-individual-objects-v645-cyg/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
@@ -481,7 +526,7 @@
     </item>
     
     <item>
-      <title>ism: jets and outflows</title>
+      <title>ISM: jets and outflows</title>
       <link>https://johnilee.github.io/tags/ism-jets-and-outflows/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
       
@@ -490,7 +535,7 @@
     </item>
     
     <item>
-      <title>stars: individual: pv cep</title>
+      <title>stars: individual: PV Cep</title>
       <link>https://johnilee.github.io/tags/stars-individual-pv-cep/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
       
@@ -499,7 +544,7 @@
     </item>
     
     <item>
-      <title>stars: individual: hd 327083</title>
+      <title>stars: individual: HD 327083</title>
       <link>https://johnilee.github.io/tags/stars-individual-hd-327083/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
       
