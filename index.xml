@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://johnilee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kinematics of Planet Formation Workshop</title>
+      <link>https://johnilee.github.io/talk/nyc_2019/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/talk/nyc_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Departmental Seminar</title>
@@ -82,6 +91,41 @@
       
       <guid>https://johnilee.github.io/publication/2019-pasp-131-f-4301-w/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Disc Chemistry with the SKA</title>
+      <link>https://johnilee.github.io/project/ska_chem/</link>
+      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/ska_chem/</guid>
+      <description>&lt;p&gt;The Square Kilometre Array (SKA) is a next-generation radio interferometer.  The mid-frequency array, SKA1-MID, will be hosted in South Africa and consist of around 200 individual antennas separated by up to 150 km.  Together these will produce observations that are up to five times more sensitive and four times more detailed than those currently possible with the Jansky Very Large Array (JVLA).&lt;/p&gt;
+
+&lt;p&gt;These capabilities mean that the SKA will open the door to unprecedented observations of the molecular content of planet-forming discs.  At these operating frequencies (10&amp;rsquo;s of GHz) many transitions of complex molecules exist, and are unhindered by the line confusion and continuum opacity that plagues (sub-)millimetre observations.&lt;/p&gt;
+
+&lt;p&gt;Using a model of complex organic molecules (COMs) in one of the best studied protoplanetary discs, TW Hya, I made predictions for the observability of these species across SKA Band 5 (5-15 GHz) along with the proposed Band 6 (15-25 or 15-50 GHz).  Our simulated spectra (Figure 1) show that the extension of Band 6 to 50 GHz will be essential in allowing us to characterise how COMs form and evolve across the star and planet formation process.  The full white paper will be available shortly.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://johnilee.github.io/img/tw_hya.jpg&#34; alt=&#34;Figure 1: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Figure 1: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
@@ -184,6 +228,8 @@
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;The fragments can be relatively cold when they first form. This &amp;lsquo;cold start&amp;rsquo; phenomena is very interesting, because it persists on timescales that are comparable to the timescales over which dust can be efficiently settled to the cores of the fragments. It is therefore plausible that this settling could occur before the ices of these grains have evaporated, changing the elemental ratios of the dust and gas that goes on to form planets. Therefore, the atmospheric composition of planets formed in this way should not necessarily follow the bulk chemical composition of the parent disc.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     

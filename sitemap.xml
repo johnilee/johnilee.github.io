@@ -8,18 +8,23 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/talk/cardiff_2019/</loc>
-    <lastmod>2019-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://johnilee.github.io/</loc>
-    <lastmod>2019-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/talk/nyc_2019/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/talk/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/talk/cardiff_2019/</loc>
     <lastmod>2019-10-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -290,6 +295,11 @@
     <loc>https://johnilee.github.io/authors/w.f.-thi/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/project/ska_chem/</loc>
+    <lastmod>2019-05-23T21:38:06+01:00</lastmod>
   </url>
   
   <url>
