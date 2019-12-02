@@ -94,41 +94,6 @@
     </item>
     
     <item>
-      <title>Disc Chemistry with the SKA</title>
-      <link>https://johnilee.github.io/project/ska_chem/</link>
-      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
-      
-      <guid>https://johnilee.github.io/project/ska_chem/</guid>
-      <description>&lt;p&gt;The Square Kilometre Array (SKA) is a next-generation radio interferometer.  The mid-frequency array, SKA1-MID, will be hosted in South Africa and consist of around 200 individual antennas separated by up to 150 km.  Together these will produce observations that are up to five times more sensitive and four times more detailed than those currently possible with the Jansky Very Large Array (JVLA).&lt;/p&gt;
-
-&lt;p&gt;These capabilities mean that the SKA will open the door to unprecedented observations of the molecular content of planet-forming discs.  At these operating frequencies (10&amp;rsquo;s of GHz) many transitions of complex molecules exist, and are unhindered by the line confusion and continuum opacity that plagues (sub-)millimetre observations.&lt;/p&gt;
-
-&lt;p&gt;Using a model of complex organic molecules (COMs) in one of the best studied protoplanetary discs, TW Hya, I made predictions for the observability of these species across SKA Band 5 (5-15 GHz) along with the proposed Band 6 (15-25 or 15-50 GHz).  Our simulated spectra (Figure 1) show that the extension of Band 6 to 50 GHz will be essential in allowing us to characterise how COMs form and evolve across the star and planet formation process.  The full white paper will be available shortly.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;https://johnilee.github.io/img/tw_hya.jpg&#34; alt=&#34;Figure 1: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.&#34; width=&#34;100%&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  
-  &lt;p&gt;
-    Figure 1: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Discs around massive young stars</title>
       <link>https://johnilee.github.io/project/myso-submm/</link>
       <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
@@ -208,6 +173,64 @@
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planet Forming Discs and the Square Kilometre Array</title>
+      <link>https://johnilee.github.io/project/ska_discs/</link>
+      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/ska_discs/</guid>
+      <description>&lt;p&gt;The Square Kilometre Array (SKA) is a next-generation radio interferometer.  The mid-frequency array, SKA1-MID, will be hosted in South Africa and consist of around 200 individual antennas separated by up to 150 km.  Together these will produce observations that are up to five times more sensitive and four times more detailed than those possible with current instruments operating at similar frequencies.  These capabilities mean that the SKA will open the door to unprecedented studies of planet-forming discs.&lt;/p&gt;
+
+&lt;p&gt;Observations of continuum emission from large (cm-sized) dust grains in discs will allow us to probe the raw material available for planet formation.  By combining observations between the millimetre and centimetre regimes, information on the properties of the dust grains can be obtained.  However, we are limited by the spatial resolution of current interferometers operating at cm-wavelengths, meaning information on the dust content on small (&amp;lt;10au at 140pc) scales is lost.  Figure 1 compares the angular resolution of ALMA, the JVLA and SKA1-MID.  Installing Band 6 (15-50GHz) receivers on SKA1-MID will allow us to match the angular resolution of cm and mm observations for the first time.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://johnilee.github.io/img/alma_vla_ska.jpg&#34; alt=&#34;Figure 1: Radiative transfer modelling of a planet forming within a protoplanetary disc, simulated using hydrodynamics with a decoupled dust component. Panels show frequencies and angular resolutions appropriate for (a) ALMA, (b) JVLA and (c) SKA1-MID.  In order to achieve comparable angular resolution between the mm and cm regimes, SKA1-MID is required at frequencies &amp;gt;25GHz&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Figure 1: Radiative transfer modelling of a planet forming within a protoplanetary disc, simulated using hydrodynamics with a decoupled dust component. Panels show frequencies and angular resolutions appropriate for (a) ALMA, (b) JVLA and &amp;copy; SKA1-MID.  In order to achieve comparable angular resolution between the mm and cm regimes, SKA1-MID is required at frequencies &amp;gt;25GHz
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;At these operating frequencies (10&amp;rsquo;s of GHz) many transitions of complex molecules also exist, and are unhindered by the line confusion and continuum opacity that plagues (sub-)millimetre observations. Using a model of complex organic molecules (COMs) in one of the best studied protoplanetary discs, TW Hya, I made predictions for the observability of these species across SKA Band 5 (5-15 GHz) along with the proposed Band 6 (15-25 or 15-50 GHz).  Our simulated spectra (Figure 2) show that the extension of Band 6 to 50 GHz will be essential in allowing us to characterise how COMs form and evolve across the star and planet formation process.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://johnilee.github.io/img/tw_hya.jpg&#34; alt=&#34;Figure 2: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Figure 2: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;The full white paper on both of these topics will be released soon.&lt;/p&gt;
 </description>
     </item>
     

@@ -13,16 +13,6 @@
     
     
     <item>
-      <title>Disc Chemistry with the SKA</title>
-      <link>https://johnilee.github.io/project/ska_chem/</link>
-      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
-      
-      <guid>https://johnilee.github.io/project/ska_chem/</guid>
-      <description>The Square Kilometre Array (SKA) is a next-generation radio interferometer. The mid-frequency array, SKA1-MID, will be hosted in South Africa and consist of around 200 individual antennas separated by up to 150 km. Together these will produce observations that are up to five times more sensitive and four times more detailed than those currently possible with the Jansky Very Large Array (JVLA).
-These capabilities mean that the SKA will open the door to unprecedented observations of the molecular content of planet-forming discs.</description>
-    </item>
-    
-    <item>
       <title>Discs around massive young stars</title>
       <link>https://johnilee.github.io/project/myso-submm/</link>
       <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
@@ -30,6 +20,15 @@ These capabilities mean that the SKA will open the door to unprecedented observa
       <guid>https://johnilee.github.io/project/myso-submm/</guid>
       <description>Stars more massive than our Sun are difficult to image directly during their early stages of formation, because these stages occur very rapidly. This means the entire formation period occurs while the star is still shrouded in the parent cloud that formed it. Due to this, and the fact that most massive young stars are located far from Earth, we know very little about how massive stars form.
 However, we can look at these massive young stellar objects (or MYSOs) using infrared wavelengths of light, which are able to penetrate the thick cloud surrounding them.</description>
+    </item>
+    
+    <item>
+      <title>Planet Forming Discs and the Square Kilometre Array</title>
+      <link>https://johnilee.github.io/project/ska_discs/</link>
+      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/ska_discs/</guid>
+      <description>The Square Kilometre Array (SKA) is a next-generation radio interferometer. The mid-frequency array, SKA1-MID, will be hosted in South Africa and consist of around 200 individual antennas separated by up to 150 km. Together these will produce observations that are up to five times more sensitive and four times more detailed than those possible with current instruments operating at similar frequencies. These capabilities mean that the SKA will open the door to unprecedented studies of planet-forming discs.</description>
     </item>
     
     <item>
