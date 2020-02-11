@@ -7,26 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/john-d.-ilee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The First Detection of 13C17O in a Protoplanetary Disk: a Robust Tracer of Disk Gas Mass</title>
-      <link>https://johnilee.github.io/publication/2019-ar-xiv-190805045-b/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <title>$^13$C$^17$O suggests gravitational instability in the HL Tau disc</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/publication/2019-ar-xiv-190805045-b/</guid>
+      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>First detections of H13CO&#43; and HC15N in the disk around HD 97048: Evidence for a cold gas reservoir in the outer disk</title>
-      <link>https://johnilee.github.io/publication/2019-ar-xiv-190708060-b/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <title>First detections of H13CO&#43; and HC15N in the disk around HD 97048. Evidence for a cold gas reservoir in the outer disk</title>
+      <link>https://johnilee.github.io/publication/2019-aa-629-a-75-b/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/publication/2019-ar-xiv-190708060-b/</guid>
+      <guid>https://johnilee.github.io/publication/2019-aa-629-a-75-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The First Detection of $^13$C$^17$O in a Protoplanetary Disk: A Robust Tracer of Disk Gas Mass</title>
+      <link>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</guid>
       <description></description>
     </item>
     
@@ -67,29 +76,11 @@
     </item>
     
     <item>
-      <title>A Keplerian Disk Around a Massive Young Proto-O Star</title>
-      <link>https://johnilee.github.io/publication/2017-sman-23-2-i/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2017-sman-23-2-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Grand Challenges in Protoplanetary Disc Modelling</title>
       <link>https://johnilee.github.io/publication/2016-pasa-33-53-h/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2016-pasa-33-53-h/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interferometry and the study of protoplanetary disks</title>
-      <link>https://johnilee.github.io/publication/2015-epjwc-10200009-i/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2015-epjwc-10200009-i/</guid>
       <description></description>
     </item>
     

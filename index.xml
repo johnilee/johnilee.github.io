@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://johnilee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dynamics in discs and their effect on chemical composition</title>
+      <link>https://johnilee.github.io/talk/maps_2020/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/talk/maps_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$^13$C$^17$O suggests gravitational instability in the HL Tau disc</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kinematics of Planet Formation Workshop</title>
@@ -49,29 +67,29 @@
     </item>
     
     <item>
+      <title>First detections of H13CO&#43; and HC15N in the disk around HD 97048. Evidence for a cold gas reservoir in the outer disk</title>
+      <link>https://johnilee.github.io/publication/2019-aa-629-a-75-b/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-aa-629-a-75-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The First Detection of $^13$C$^17$O in a Protoplanetary Disk: A Robust Tracer of Disk Gas Mass</title>
+      <link>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Planet-forming material in a protoplanetary disc: the interplay between chemical evolution and pebble drift</title>
       <link>https://johnilee.github.io/publication/2019-mnras-487-3998-b/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2019-mnras-487-3998-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The First Detection of 13C17O in a Protoplanetary Disk: a Robust Tracer of Disk Gas Mass</title>
-      <link>https://johnilee.github.io/publication/2019-ar-xiv-190805045-b/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2019-ar-xiv-190805045-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First detections of H13CO&#43; and HC15N in the disk around HD 97048: Evidence for a cold gas reservoir in the outer disk</title>
-      <link>https://johnilee.github.io/publication/2019-ar-xiv-190708060-b/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2019-ar-xiv-190708060-b/</guid>
       <description></description>
     </item>
     
@@ -356,15 +374,6 @@
     </item>
     
     <item>
-      <title>VizieR Online Data Catalog: X-ray data for 56 protoplanetary disk sources (Dionatos&#43; 2019)</title>
-      <link>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gravitational instabilities in a protosolar-like disc - III. Molecular line detection and sensitivities</title>
       <link>https://johnilee.github.io/publication/2019-mnras-483-1266-e/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -442,15 +451,6 @@
     </item>
     
     <item>
-      <title>Planet formation imager: project update</title>
-      <link>https://johnilee.github.io/publication/2018-spie-10701-e-18-m/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2018-spie-10701-e-18-m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Are Elias 2-27&#39;s Spiral Arms Driven by Self-gravity, or by a Companion? A Comparative Spiral Morphology Study</title>
       <link>https://johnilee.github.io/publication/2018-ap-j-860-l-5-f/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -465,15 +465,6 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2018-mnras-477-325-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-wavelength observations of planet forming disks: Constraints on planet formation processes</title>
-      <link>https://johnilee.github.io/publication/2018-cwla-conf-89-k/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2018-cwla-conf-89-k/</guid>
       <description></description>
     </item>
     
@@ -523,15 +514,6 @@
     </item>
     
     <item>
-      <title>A Keplerian Disk Around a Massive Young Proto-O Star</title>
-      <link>https://johnilee.github.io/publication/2017-sman-23-2-i/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2017-sman-23-2-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>G11.92-0.61 MM1: a Keplerian disc around a massive young proto-O star</title>
       <link>https://johnilee.github.io/publication/2016-mnras-462-4386-i/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -555,24 +537,6 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2016-pasa-33-53-h/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Planet Formation Imager (PFI): science vision and key requirements</title>
-      <link>https://johnilee.github.io/publication/2016-spie-9907-e-1-kk/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2016-spie-9907-e-1-kk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VizieR Online Data Catalog: Herbig Ae/Be X-shooter observations (Fairlamb&#43;, 2015)</title>
-      <link>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</guid>
       <description></description>
     </item>
     
@@ -636,24 +600,6 @@
     </item>
     
     <item>
-      <title>Interferometry and the study of protoplanetary disks</title>
-      <link>https://johnilee.github.io/publication/2015-epjwc-10200009-i/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2015-epjwc-10200009-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preface</title>
-      <link>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Protoplanetary Discussions</title>
       <link>https://johnilee.github.io/project/pp_discussions/</link>
       <pubDate>Sat, 23 May 2015 21:38:06 +0100</pubDate>
@@ -689,15 +635,6 @@
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2013-mnras-433-2064-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tracing discs around massive YSOs using CO emission</title>
-      <link>https://johnilee.github.io/publication/2013-prpl-conf-2-b-010-i/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2013-prpl-conf-2-b-010-i/</guid>
       <description></description>
     </item>
     
@@ -755,15 +692,6 @@
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2011-mnras-417-2950-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling the chemistry of a gravitationally unstable protoplanetary disc</title>
-      <link>https://johnilee.github.io/publication/2011-iaus-280-p-202-i/</link>
-      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2011-iaus-280-p-202-i/</guid>
       <description></description>
     </item>
     
