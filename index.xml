@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://johnilee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Star &amp; Planet Formation Seminar</title>
+      <link>https://johnilee.github.io/talk/eso_2020/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/talk/eso_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamics in discs and their effect on chemical composition</title>
