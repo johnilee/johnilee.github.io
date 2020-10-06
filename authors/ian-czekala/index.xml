@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Czekala on John Ilee</title>
+    <link>https://johnilee.github.io/authors/ian-czekala/</link>
+    <description>Recent content in Ian Czekala on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/authors/ian-czekala/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualizing the Kinematics of Planet Formation</title>
+      <link>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

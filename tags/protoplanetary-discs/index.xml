@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/protoplanetary-discs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>13C17O suggests gravitational instability in the HL Tau disc</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Observing protoplanetary discs with the Square Kilometre Array - I. Characterizing pebble substructure caused by forming planets</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
+      <guid>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>13C17O suggests gravitational instability in the HL Tau disc</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</guid>
       <description></description>
     </item>
     

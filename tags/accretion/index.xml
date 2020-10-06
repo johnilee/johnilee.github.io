@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/accretion/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A three-dimensional view of Gomez&#39;s hamburger</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-495-451-t/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-495-451-t/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Consistent dust and gas models for protoplanetary disks. IV. A panchromatic view of protoplanetary disks</title>
@@ -18,6 +27,15 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2019-aa-625-a-66-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VizieR Online Data Catalog: X-ray data for 56 protoplanetary disk sources (Dionatos&#43; 2019)</title>
+      <link>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</guid>
       <description></description>
     </item>
     
@@ -54,6 +72,15 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2017-mnras-464-4721-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VizieR Online Data Catalog: Herbig Ae/Be X-shooter observations (Fairlamb&#43;, 2015)</title>
+      <link>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</guid>
       <description></description>
     </item>
     

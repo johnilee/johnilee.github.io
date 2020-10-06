@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Astrophysics - Astrophysics of Galaxies</title>
       <link>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Astrophysics - Earth and Planetary Astrophysics</title>
       <link>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</guid>
       <description></description>
@@ -33,43 +33,106 @@
     <item>
       <title>Astrophysics - Solar and Stellar Astrophysics</title>
       <link>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>individual: HL Tau</title>
-      <link>https://johnilee.github.io/tags/individual-hl-tau/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>planet-disc interactions</title>
+      <link>https://johnilee.github.io/tags/planet-disc-interactions/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/individual-hl-tau/</guid>
+      <guid>https://johnilee.github.io/tags/planet-disc-interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planets and satellites: formation</title>
+      <link>https://johnilee.github.io/tags/planets-and-satellites-formation/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/planets-and-satellites-formation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>protoplanetary discs</title>
       <link>https://johnilee.github.io/tags/protoplanetary-discs/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/protoplanetary-discs/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>radio continuum: planetary systems</title>
+      <link>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>stars: pre-main sequence</title>
       <link>https://johnilee.github.io/tags/stars-pre-main-sequence/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/stars-pre-main-sequence/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Accretion</title>
+      <link>https://johnilee.github.io/tags/accretion/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/accretion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>accretion discs</title>
+      <link>https://johnilee.github.io/tags/accretion-discs/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/accretion-discs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>circumstellar matter</title>
+      <link>https://johnilee.github.io/tags/circumstellar-matter/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/circumstellar-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stars: formation</title>
+      <link>https://johnilee.github.io/tags/stars-formation/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/stars-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stars: individual: HL Tau</title>
+      <link>https://johnilee.github.io/tags/stars-individual-hl-tau/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/stars-individual-hl-tau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>submillimetre: planetary systems</title>
       <link>https://johnilee.github.io/tags/submillimetre-planetary-systems/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/submillimetre-planetary-systems/</guid>
       <description></description>
@@ -78,7 +141,7 @@
     <item>
       <title>techniques: interferometric</title>
       <link>https://johnilee.github.io/tags/techniques-interferometric/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/techniques-interferometric/</guid>
       <description></description>
@@ -157,20 +220,20 @@
     </item>
     
     <item>
-      <title>planets and satellites: formation</title>
-      <link>https://johnilee.github.io/tags/planets-and-satellites-formation/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Photometry: millimetric/submm</title>
+      <link>https://johnilee.github.io/tags/photometry-millimetric/submm/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/planets-and-satellites-formation/</guid>
+      <guid>https://johnilee.github.io/tags/photometry-millimetric/submm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Accretion</title>
-      <link>https://johnilee.github.io/tags/accretion/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <title>Stars: variable</title>
+      <link>https://johnilee.github.io/tags/stars-variable/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/accretion/</guid>
+      <guid>https://johnilee.github.io/tags/stars-variable/</guid>
       <description></description>
     </item>
     
@@ -202,24 +265,6 @@
     </item>
     
     <item>
-      <title>circumstellar matter</title>
-      <link>https://johnilee.github.io/tags/circumstellar-matter/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/circumstellar-matter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stars: formation</title>
-      <link>https://johnilee.github.io/tags/stars-formation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/stars-formation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>stars: variables: T Tauri</title>
       <link>https://johnilee.github.io/tags/stars-variables-t-tauri/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
@@ -229,11 +274,20 @@
     </item>
     
     <item>
-      <title>accretion discs</title>
-      <link>https://johnilee.github.io/tags/accretion-discs/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Spectroscopy</title>
+      <link>https://johnilee.github.io/tags/spectroscopy/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/accretion-discs/</guid>
+      <guid>https://johnilee.github.io/tags/spectroscopy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-ray sources</title>
+      <link>https://johnilee.github.io/tags/x-ray-sources/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/x-ray-sources/</guid>
       <description></description>
     </item>
     
@@ -319,6 +373,15 @@
     </item>
     
     <item>
+      <title>Astrophysics - Instrumentation and Methods for Astrophysics</title>
+      <link>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>brown dwarfs</title>
       <link>https://johnilee.github.io/tags/brown-dwarfs/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -333,6 +396,24 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/stars-individual-elias-227/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar system and planetary formation</title>
+      <link>https://johnilee.github.io/tags/solar-system-and-planetary-formation/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/solar-system-and-planetary-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star formation</title>
+      <link>https://johnilee.github.io/tags/star-formation/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/star-formation/</guid>
       <description></description>
     </item>
     

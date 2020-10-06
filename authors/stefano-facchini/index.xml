@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/stefano-facchini/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visualizing the Kinematics of Planet Formation</title>
+      <link>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grand Challenges in Protoplanetary Disc Modelling</title>

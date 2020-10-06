@@ -7,17 +7,53 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://johnilee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Star &amp; Planet Formation Seminar</title>
-      <link>https://johnilee.github.io/talk/eso_2020/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <title>Observing protoplanetary discs with the Square Kilometre Array</title>
+      <link>https://johnilee.github.io/talk/leiden_2020/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/talk/eso_2020/</guid>
+      <guid>https://johnilee.github.io/talk/leiden_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing protoplanetary discs with the Square Kilometre Array - I. Characterizing pebble substructure caused by forming planets</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing the Kinematics of Planet Formation</title>
+      <link>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A three-dimensional view of Gomez&#39;s hamburger</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-495-451-t/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-495-451-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>13C17O suggests gravitational instability in the HL Tau disc</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</guid>
       <description></description>
     </item>
     
@@ -27,15 +63,6 @@
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/talk/maps_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>13C17O suggests gravitational instability in the HL Tau disc</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
       <description></description>
     </item>
     
@@ -99,6 +126,15 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2019-mnras-487-3998-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VizieR Online Data Catalog: HD 97048 H13CO&#43; and HC15N first detections (Booth&#43;, 2019)</title>
+      <link>https://johnilee.github.io/publication/2019-y-cat-36290075-b/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-y-cat-36290075-b/</guid>
       <description></description>
     </item>
     
@@ -204,28 +240,44 @@
     </item>
     
     <item>
-      <title>Planet Forming Discs and the Square Kilometre Array</title>
+      <title>Molecules with ALMA at Planet Forming Scales</title>
+      <link>https://johnilee.github.io/project/maps/</link>
+      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
+      
+      <guid>https://johnilee.github.io/project/maps/</guid>
+      <description>&lt;p&gt;Planets form and obtain their compositions in dust and gas-rich disks around young stars. The planet forming process is intimately linked to the disk chemical structure.
+First, chemistry shapes the outcome of planet formation, including planetary hospitality to life. Second, the chemistry is sensitive to the distribution of dust and pebbles
+in disks, and as planets open up disk gaps they may change the chemical environment within which they form. Third, molecular emission is often the only tool we have to explore
+disk ionization levels, kinematics and mass distribution, all key ingredients of planet formation models. We proposed a Large Program to map out the radial and vertical disk
+chemical structures at 10 au scales, in five disks where dust sub-structure is detected and planet formation appears to be ongoing. The resulting data give us access to the chemistry
+in the planet forming zone of disks, allows us to explore how ongoing planet formation shape the disk chemistry environment, and helps constrain the disk gas properties in the previously
+unexplored inner disk midplane.  We are currently working hard to reduce, image and analyse the data.  We are excited to share the results with the community soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Observing Planet Forming Discs with the SKA</title>
       <link>https://johnilee.github.io/project/ska_discs/</link>
       <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
       
       <guid>https://johnilee.github.io/project/ska_discs/</guid>
       <description>&lt;p&gt;The Square Kilometre Array (SKA) is a next-generation radio interferometer.  The mid-frequency array, SKA1-MID, will be hosted in South Africa and consist of around 200 individual antennas separated by up to 150 km.  Together these will produce observations that are up to five times more sensitive and four times more detailed than those possible with current instruments operating at similar frequencies.  These capabilities mean that the SKA will open the door to unprecedented studies of planet-forming discs.&lt;/p&gt;
 
-&lt;p&gt;Observations of continuum emission from large (cm-sized) dust grains in discs will allow us to probe the raw material available for planet formation.  By combining observations between the millimetre and centimetre regimes, information on the properties of the dust grains can be obtained.  However, we are limited by the spatial resolution of current interferometers operating at cm-wavelengths, meaning information on the dust content on small (&amp;lt;10au at 140pc) scales is lost.  Figure 1 compares the angular resolution of ALMA, the JVLA and SKA1-MID.  Installing Band 6 (15-50GHz) receivers on SKA1-MID will allow us to match the angular resolution of cm and mm observations for the first time.&lt;/p&gt;
+&lt;p&gt;Observations of continuum emission from large (cm-sized) dust grains in discs will allow us to probe the raw material available for planet formation.  I recently made the first predictions for what the SKA might be able to observe in a disc hosting young planets, which can be seen in Figure 1.  We found that the SKA will provide high-fidelity observations of the cm dust emission substructure in discs for integration times totalling hundreds of hours. Radial structure can be obtained at a sufficient resolution and S/N from shorter (tens of hours) integration times by azimuthal averaging in the image plane. By modelling the intensity distribution directly in the visibility plane, it is possible to recover a similar level of (axisymmetric) structural detail from observations with integration times one to two orders of magnitude lower than required for high-fidelity imaging. Our results demonstrate that SKA1-MID will provide crucial constraints on the distribution and morphology of the raw material for building planets.&lt;/p&gt;
 
 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://johnilee.github.io/img/alma_vla_ska.jpg&#34; alt=&#34;Figure 1: Radiative transfer modelling of a planet forming within a protoplanetary disc, simulated using hydrodynamics with a decoupled dust component. Panels show frequencies and angular resolutions appropriate for a) ALMA, b) JVLA and c) SKA1-MID.  In order to achieve comparable angular resolution between the mm and cm regimes, SKA1-MID is required at frequencies &amp;gt;25GHz&#34; width=&#34;100%&#34; /&gt;
+&lt;img src=&#34;https://johnilee.github.io/img/ska_12GHz.jpg&#34; alt=&#34;Figure 1: Simulated SKA continuum observations at 12.5 GHz for angular resolutions of 34 mas (left) and 67 mas (right) with an integration time of 1000 hrs achievable with repeated monitoring observational campaign. The positions of the planets in the underlying model are shown with blue crosses.&#34; width=&#34;100%&#34; /&gt;
 
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
   &lt;p&gt;
-    Figure 1: Radiative transfer modelling of a planet forming within a protoplanetary disc, simulated using hydrodynamics with a decoupled dust component. Panels show frequencies and angular resolutions appropriate for a) ALMA, b) JVLA and c) SKA1-MID.  In order to achieve comparable angular resolution between the mm and cm regimes, SKA1-MID is required at frequencies &amp;gt;25GHz
+    Figure 1: Simulated SKA continuum observations at 12.5 GHz for angular resolutions of 34 mas (left) and 67 mas (right) with an integration time of 1000 hrs achievable with repeated monitoring observational campaign. The positions of the planets in the underlying model are shown with blue crosses.
     
     
     
@@ -257,7 +309,7 @@
 
 &lt;/figure&gt;
 
-&lt;p&gt;The full white paper on both of these topics will be released soon.&lt;/p&gt;
+&lt;p&gt;The full white paper on the potential for SKA Band 6 receivers &lt;a href=&#34;http://www.skatelescope.org/wp-content/uploads/2020/02/ScienceCase_band6_Feb2020.pdf&#34; target=&#34;_blank&#34;&gt;can be viewed here.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -383,6 +435,15 @@
     </item>
     
     <item>
+      <title>VizieR Online Data Catalog: X-ray data for 56 protoplanetary disk sources (Dionatos&#43; 2019)</title>
+      <link>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gravitational instabilities in a protosolar-like disc - III. Molecular line detection and sensitivities</title>
       <link>https://johnilee.github.io/publication/2019-mnras-483-1266-e/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -460,6 +521,15 @@
     </item>
     
     <item>
+      <title>Planet formation imager: project update</title>
+      <link>https://johnilee.github.io/publication/2018-spie-10701-e-18-m/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2018-spie-10701-e-18-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Are Elias 2-27&#39;s Spiral Arms Driven by Self-gravity, or by a Companion? A Comparative Spiral Morphology Study</title>
       <link>https://johnilee.github.io/publication/2018-ap-j-860-l-5-f/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -474,6 +544,15 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2018-mnras-477-325-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-wavelength observations of planet forming disks: Constraints on planet formation processes</title>
+      <link>https://johnilee.github.io/publication/2018-cwla-conf-89-k/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2018-cwla-conf-89-k/</guid>
       <description></description>
     </item>
     
@@ -523,6 +602,15 @@
     </item>
     
     <item>
+      <title>A Keplerian Disk Around a Massive Young Proto-O Star</title>
+      <link>https://johnilee.github.io/publication/2017-sman-23-2-i/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2017-sman-23-2-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>G11.92-0.61 MM1: a Keplerian disc around a massive young proto-O star</title>
       <link>https://johnilee.github.io/publication/2016-mnras-462-4386-i/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -546,6 +634,24 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2016-pasa-33-53-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planet Formation Imager (PFI): science vision and key requirements</title>
+      <link>https://johnilee.github.io/publication/2016-spie-9907-e-1-kk/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-spie-9907-e-1-kk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VizieR Online Data Catalog: Herbig Ae/Be X-shooter observations (Fairlamb&#43;, 2015)</title>
+      <link>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</guid>
       <description></description>
     </item>
     
@@ -609,6 +715,24 @@
     </item>
     
     <item>
+      <title>Interferometry and the study of protoplanetary disks</title>
+      <link>https://johnilee.github.io/publication/2015-epjwc-10200009-i/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2015-epjwc-10200009-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preface</title>
+      <link>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Protoplanetary Discussions</title>
       <link>https://johnilee.github.io/project/pp_discussions/</link>
       <pubDate>Sat, 23 May 2015 21:38:06 +0100</pubDate>
@@ -644,6 +768,15 @@
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2013-mnras-433-2064-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing discs around massive YSOs using CO emission</title>
+      <link>https://johnilee.github.io/publication/2013-prpl-conf-2-b-010-i/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2013-prpl-conf-2-b-010-i/</guid>
       <description></description>
     </item>
     
@@ -701,6 +834,15 @@
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2011-mnras-417-2950-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the chemistry of a gravitationally unstable protoplanetary disc</title>
+      <link>https://johnilee.github.io/publication/2011-iaus-280-p-202-i/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2011-iaus-280-p-202-i/</guid>
       <description></description>
     </item>
     

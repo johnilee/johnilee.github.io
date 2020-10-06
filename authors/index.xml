@@ -7,44 +7,323 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Alice S. Booth</title>
-      <link>https://johnilee.github.io/authors/alice-s.-booth/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Aleksandra Kuznetsova</title>
+      <link>https://johnilee.github.io/authors/aleksandra-kuznetsova/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/authors/alice-s.-booth/</guid>
+      <guid>https://johnilee.github.io/authors/aleksandra-kuznetsova/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>John D. Ilee</title>
-      <link>https://johnilee.github.io/authors/john-d.-ilee/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Cassandra Hall</title>
+      <link>https://johnilee.github.io/authors/cassandra-hall/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/authors/john-d.-ilee/</guid>
+      <guid>https://johnilee.github.io/authors/cassandra-hall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Catherine Walsh</title>
       <link>https://johnilee.github.io/authors/catherine-walsh/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/catherine-walsh/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Christophe Pinte</title>
+      <link>https://johnilee.github.io/authors/christophe-pinte/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/christophe-pinte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel J. Price</title>
+      <link>https://johnilee.github.io/authors/daniel-j.-price/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/daniel-j.-price/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disk Dynamics Collaboration</title>
+      <link>https://johnilee.github.io/authors/disk-dynamics-collaboration/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/disk-dynamics-collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edwin A. Bergin</title>
+      <link>https://johnilee.github.io/authors/edwin-a.-bergin/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/edwin-a.-bergin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giovanni Rosotti</title>
+      <link>https://johnilee.github.io/authors/giovanni-rosotti/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/giovanni-rosotti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ian Czekala</title>
+      <link>https://johnilee.github.io/authors/ian-czekala/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/ian-czekala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Izaskun Jiménez-Serra</title>
+      <link>https://johnilee.github.io/authors/izaskun-jim%C3%A9nez-serra/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/izaskun-jim%C3%A9nez-serra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob B. Simon</title>
+      <link>https://johnilee.github.io/authors/jacob-b.-simon/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/jacob-b.-simon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaehan Bae</title>
+      <link>https://johnilee.github.io/authors/jaehan-bae/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/jaehan-bae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Terry</title>
+      <link>https://johnilee.github.io/authors/jason-terry/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/jason-terry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Fung</title>
+      <link>https://johnilee.github.io/authors/jeffrey-fung/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/jeffrey-fung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John D. Ilee</title>
+      <link>https://johnilee.github.io/authors/john-d.-ilee/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/john-d.-ilee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judit Szulagyi</title>
+      <link>https://johnilee.github.io/authors/judit-szulagyi/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/judit-szulagyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kamber Schwarz</title>
+      <link>https://johnilee.github.io/authors/kamber-schwarz/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/kamber-schwarz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ke Zhang</title>
+      <link>https://johnilee.github.io/authors/ke-zhang/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/ke-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melvin Hoare</title>
+      <link>https://johnilee.github.io/authors/melvin-hoare/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/melvin-hoare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miriam Keppler</title>
+      <link>https://johnilee.github.io/authors/miriam-keppler/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/miriam-keppler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myriam Benisty</title>
+      <link>https://johnilee.github.io/authors/myriam-benisty/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/myriam-benisty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natascha Manger</title>
+      <link>https://johnilee.github.io/authors/natascha-manger/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/natascha-manger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip J. Armitage</title>
+      <link>https://johnilee.github.io/authors/philip-j.-armitage/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/philip-j.-armitage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Teague</title>
+      <link>https://johnilee.github.io/authors/richard-teague/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/richard-teague/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romane Le Gal</title>
+      <link>https://johnilee.github.io/authors/romane-le-gal/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/romane-le-gal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan A. Loomis</title>
+      <link>https://johnilee.github.io/authors/ryan-a.-loomis/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/ryan-a.-loomis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Perez</title>
+      <link>https://johnilee.github.io/authors/sebastian-perez/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/sebastian-perez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Casassus</title>
+      <link>https://johnilee.github.io/authors/simon-casassus/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/simon-casassus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefano Facchini</title>
+      <link>https://johnilee.github.io/authors/stefano-facchini/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/stefano-facchini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tyler L. Bourke</title>
+      <link>https://johnilee.github.io/authors/tyler-l.-bourke/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/tyler-l.-bourke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wladimir Lyra</title>
+      <link>https://johnilee.github.io/authors/wladimir-lyra/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/wladimir-lyra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chunhua Qi</title>
       <link>https://johnilee.github.io/authors/chunhua-qi/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/chunhua-qi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marija R. Jankovic</title>
+      <link>https://johnilee.github.io/authors/marija-r.-jankovic/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/marija-r.-jankovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas J. Haworth</title>
+      <link>https://johnilee.github.io/authors/thomas-j.-haworth/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/thomas-j.-haworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alice S. Booth</title>
+      <link>https://johnilee.github.io/authors/alice-s.-booth/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/alice-s.-booth/</guid>
       <description></description>
     </item>
     
@@ -90,6 +369,33 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/r.-a.-booth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.~S. Booth</title>
+      <link>https://johnilee.github.io/authors/a.~s.-booth/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/a.~s.-booth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Walsh</title>
+      <link>https://johnilee.github.io/authors/c.-walsh/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/c.-walsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.~D. Ilee</title>
+      <link>https://johnilee.github.io/authors/j.~d.-ilee/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/j.~d.-ilee/</guid>
       <description></description>
     </item>
     
@@ -301,6 +607,33 @@
     </item>
     
     <item>
+      <title>L.~B.~F.~M. Waters</title>
+      <link>https://johnilee.github.io/authors/l.~b.~f.~m.-waters/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/l.~b.~f.~m.-waters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Guedel</title>
+      <link>https://johnilee.github.io/authors/m.-guedel/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/m.-guedel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W.~F. Thi</title>
+      <link>https://johnilee.github.io/authors/w.~f.-thi/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/w.~f.-thi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A. C. Boley</title>
       <link>https://johnilee.github.io/authors/a.-c.-boley/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -324,15 +657,6 @@
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/c.-l.-brogan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Walsh</title>
-      <link>https://johnilee.github.io/authors/c.-walsh/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/c.-walsh/</guid>
       <description></description>
     </item>
     
@@ -463,15 +787,6 @@
     </item>
     
     <item>
-      <title>Izaskun Jiménez-Serra</title>
-      <link>https://johnilee.github.io/authors/izaskun-jim%C3%A9nez-serra/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/izaskun-jim%C3%A9nez-serra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ken Rice</title>
       <link>https://johnilee.github.io/authors/ken-rice/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -562,11 +877,533 @@
     </item>
     
     <item>
+      <title>Alessandro Morbidelli</title>
+      <link>https://johnilee.github.io/authors/alessandro-morbidelli/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/alessandro-morbidelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexand re Gallenne</title>
+      <link>https://johnilee.github.io/authors/alexand-re-gallenne/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/alexand-re-gallenne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Wallace</title>
+      <link>https://johnilee.github.io/authors/alexander-wallace/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/alexander-wallace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almudena Alonso-Herrero</title>
+      <link>https://johnilee.github.io/authors/almudena-alonso-herrero/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/almudena-alonso-herrero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amelia Bayo</title>
+      <link>https://johnilee.github.io/authors/amelia-bayo/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/amelia-bayo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amy Bonsor</title>
+      <link>https://johnilee.github.io/authors/amy-bonsor/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/amy-bonsor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Chiavassa</title>
+      <link>https://johnilee.github.io/authors/andrea-chiavassa/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/andrea-chiavassa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Isella</title>
+      <link>https://johnilee.github.io/authors/andrea-isella/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/andrea-isella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas Morlok</title>
+      <link>https://johnilee.github.io/authors/andreas-morlok/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/andreas-morlok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attila Juhasz</title>
+      <link>https://johnilee.github.io/authors/attila-juhasz/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/attila-juhasz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Pope</title>
+      <link>https://johnilee.github.io/authors/benjamin-pope/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/benjamin-pope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catherine Espaillat</title>
+      <link>https://johnilee.github.io/authors/catherine-espaillat/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/catherine-espaillat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Haniff</title>
+      <link>https://johnilee.github.io/authors/chris-haniff/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/chris-haniff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Mordasini</title>
+      <link>https://johnilee.github.io/authors/chris-mordasini/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/chris-mordasini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Packham</title>
+      <link>https://johnilee.github.io/authors/chris-packham/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/chris-packham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudia Paladini</title>
+      <link>https://johnilee.github.io/authors/claudia-paladini/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/claudia-paladini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristina Ramos Almeida</title>
+      <link>https://johnilee.github.io/authors/cristina-ramos-almeida/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/cristina-ramos-almeida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dave Mozurkewich</title>
+      <link>https://johnilee.github.io/authors/dave-mozurkewich/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/dave-mozurkewich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Ciardi</title>
+      <link>https://johnilee.github.io/authors/david-ciardi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/david-ciardi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denis Defrère</title>
+      <link>https://johnilee.github.io/authors/denis-defr%C3%A8re/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/denis-defr%C3%A8re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edward Wishnow</title>
+      <link>https://johnilee.github.io/authors/edward-wishnow/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/edward-wishnow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Jensen</title>
+      <link>https://johnilee.github.io/authors/eric-jensen/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/eric-jensen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ernest Michael</title>
+      <link>https://johnilee.github.io/authors/ernest-michael/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/ernest-michael/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabien Baron</title>
+      <link>https://johnilee.github.io/authors/fabien-baron/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/fabien-baron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Farzana Meru</title>
+      <link>https://johnilee.github.io/authors/farzana-meru/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/farzana-meru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florentin Millour</title>
+      <link>https://johnilee.github.io/authors/florentin-millour/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/florentin-millour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaspard Duchêne</title>
+      <link>https://johnilee.github.io/authors/gaspard-duch%C3%AAne/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/gaspard-duch%C3%AAne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gautum Vasisht</title>
+      <link>https://johnilee.github.io/authors/gautum-vasisht/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/gautum-vasisht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerard van Belle</title>
+      <link>https://johnilee.github.io/authors/gerard-van-belle/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/gerard-van-belle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerd Weigelt</title>
+      <link>https://johnilee.github.io/authors/gerd-weigelt/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/gerd-weigelt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greg Laughlin</title>
+      <link>https://johnilee.github.io/authors/greg-laughlin/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/greg-laughlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>H. E. Wheelwright</title>
       <link>https://johnilee.github.io/authors/h.-e.-wheelwright/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/h.-e.-wheelwright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean Surdej</title>
+      <link>https://johnilee.github.io/authors/jean-surdej/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/jean-surdej/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Baptiste Le Bouquin</title>
+      <link>https://johnilee.github.io/authors/jean-baptiste-le-bouquin/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/jean-baptiste-le-bouquin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Francois Gonzalez</title>
+      <link>https://johnilee.github.io/authors/jean-francois-gonzalez/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/jean-francois-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Philippe Berger</title>
+      <link>https://johnilee.github.io/authors/jean-philippe-berger/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/jean-philippe-berger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joerg-Uwe Pott</title>
+      <link>https://johnilee.github.io/authors/joerg-uwe-pott/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/joerg-uwe-pott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johan Olofsson</title>
+      <link>https://johnilee.github.io/authors/johan-olofsson/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/johan-olofsson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John D. Monnier</title>
+      <link>https://johnilee.github.io/authors/john-d.-monnier/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/john-d.-monnier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Ilee</title>
+      <link>https://johnilee.github.io/authors/john-ilee/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/john-ilee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Young</title>
+      <link>https://johnilee.github.io/authors/john-young/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/john-young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaitlin Kratter</title>
+      <link>https://johnilee.github.io/authors/kaitlin-kratter/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/kaitlin-kratter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keivan Stassun</title>
+      <link>https://johnilee.github.io/authors/keivan-stassun/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/keivan-stassun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konrad Tristram</title>
+      <link>https://johnilee.github.io/authors/konrad-tristram/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/konrad-tristram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucas Labadie</title>
+      <link>https://johnilee.github.io/authors/lucas-labadie/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/lucas-labadie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis Henry Quiroga-Nunez</title>
+      <link>https://johnilee.github.io/authors/luis-henry-quiroga-nunez/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/luis-henry-quiroga-nunez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makoto Kishimoto</title>
+      <link>https://johnilee.github.io/authors/makoto-kishimoto/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/makoto-kishimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Reynolds</title>
+      <link>https://johnilee.github.io/authors/mark-reynolds/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/mark-reynolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Wittkowski</title>
+      <link>https://johnilee.github.io/authors/markus-wittkowski/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/markus-wittkowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Schreiber</title>
+      <link>https://johnilee.github.io/authors/matthias-schreiber/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/matthias-schreiber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Ireland</title>
+      <link>https://johnilee.github.io/authors/michael-ireland/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/michael-ireland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Smith</title>
+      <link>https://johnilee.github.io/authors/michael-smith/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/michael-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michelle Creech-Eakman</title>
+      <link>https://johnilee.github.io/authors/michelle-creech-eakman/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/michelle-creech-eakman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ming Zhao</title>
+      <link>https://johnilee.github.io/authors/ming-zhao/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/ming-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neal Turner</title>
+      <link>https://johnilee.github.io/authors/neal-turner/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/neal-turner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olja Panic</title>
+      <link>https://johnilee.github.io/authors/olja-panic/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/olja-panic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Tuthill</title>
+      <link>https://johnilee.github.io/authors/peter-tuthill/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/peter-tuthill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poshak Gandhi</title>
+      <link>https://johnilee.github.io/authors/poshak-gandhi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/poshak-gandhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quentin Kral</title>
+      <link>https://johnilee.github.io/authors/quentin-kral/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/quentin-kral/</guid>
       <description></description>
     </item>
     
@@ -589,6 +1426,195 @@
     </item>
     
     <item>
+      <title>Rafael Millan-Gabet</title>
+      <link>https://johnilee.github.io/authors/rafael-millan-gabet/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/rafael-millan-gabet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rene Oudmaijer</title>
+      <link>https://johnilee.github.io/authors/rene-oudmaijer/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/rene-oudmaijer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Nelson</title>
+      <link>https://johnilee.github.io/authors/richard-nelson/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/richard-nelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romain Petrov</title>
+      <link>https://johnilee.github.io/authors/romain-petrov/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/romain-petrov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruobing Dong</title>
+      <link>https://johnilee.github.io/authors/ruobing-dong/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/ruobing-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sean N. Raymond</title>
+      <link>https://johnilee.github.io/authors/sean-n.-raymond/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/sean-n.-raymond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Hoenig</title>
+      <link>https://johnilee.github.io/authors/sebastian-hoenig/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/sebastian-hoenig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Wolf</title>
+      <link>https://johnilee.github.io/authors/sebastian-wolf/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/sebastian-wolf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Zúñiga-Fernández</title>
+      <link>https://johnilee.github.io/authors/sebastian-z%C3%BA%C3%B1iga-fern%C3%A1ndez/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/sebastian-z%C3%BA%C3%B1iga-fern%C3%A1ndez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Kraus</title>
+      <link>https://johnilee.github.io/authors/stefan-kraus/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/stefan-kraus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefano Minardi</title>
+      <link>https://johnilee.github.io/authors/stefano-minardi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/stefano-minardi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Kane</title>
+      <link>https://johnilee.github.io/authors/stephen-kane/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/stephen-kane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Ridgway</title>
+      <link>https://johnilee.github.io/authors/stephen-ridgway/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/stephen-ridgway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Rinehart</title>
+      <link>https://johnilee.github.io/authors/stephen-rinehart/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/stephen-rinehart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sylvestre Lacour</title>
+      <link>https://johnilee.github.io/authors/sylvestre-lacour/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/sylvestre-lacour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabetha Boyajian</title>
+      <link>https://johnilee.github.io/authors/tabetha-boyajian/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/tabetha-boyajian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theo ten Brummelaar</title>
+      <link>https://johnilee.github.io/authors/theo-ten-brummelaar/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/theo-ten-brummelaar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wilhelm Kley</title>
+      <link>https://johnilee.github.io/authors/wilhelm-kley/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/wilhelm-kley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Willem-Jan de Wit</title>
+      <link>https://johnilee.github.io/authors/willem-jan-de-wit/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/willem-jan-de-wit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhaohuan Zhu</title>
+      <link>https://johnilee.github.io/authors/zhaohuan-zhu/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/zhaohuan-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zsolt Regaly</title>
+      <link>https://johnilee.github.io/authors/zsolt-regaly/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/zsolt-regaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>D. M. Boneberg</title>
       <link>https://johnilee.github.io/authors/d.-m.-boneberg/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -598,20 +1624,47 @@
     </item>
     
     <item>
-      <title>Farzana Meru</title>
-      <link>https://johnilee.github.io/authors/farzana-meru/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/farzana-meru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>S. Bruderer</title>
       <link>https://johnilee.github.io/authors/s.-bruderer/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/s.-bruderer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andres Carmona</title>
+      <link>https://johnilee.github.io/authors/andres-carmona/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/andres-carmona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Rab</title>
+      <link>https://johnilee.github.io/authors/christian-rab/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/christian-rab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inga Kamp</title>
+      <link>https://johnilee.github.io/authors/inga-kamp/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/inga-kamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefano Antonellini</title>
+      <link>https://johnilee.github.io/authors/stefano-antonellini/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/stefano-antonellini/</guid>
       <description></description>
     </item>
     
@@ -733,6 +1786,51 @@
     </item>
     
     <item>
+      <title>Claudia J. Cyganowski</title>
+      <link>https://johnilee.github.io/authors/claudia-j.-cyganowski/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/claudia-j.-cyganowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crystal L. Brogan</title>
+      <link>https://johnilee.github.io/authors/crystal-l.-brogan/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/crystal-l.-brogan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pooneh Nazari</title>
+      <link>https://johnilee.github.io/authors/pooneh-nazari/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/pooneh-nazari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qizhou Zhang</title>
+      <link>https://johnilee.github.io/authors/qizhou-zhang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/qizhou-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Todd R. Hunter</title>
+      <link>https://johnilee.github.io/authors/todd-r.-hunter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/todd-r.-hunter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>P. Nazari</title>
       <link>https://johnilee.github.io/authors/p.-nazari/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -760,15 +1858,6 @@
     </item>
     
     <item>
-      <title>Daniel J. Price</title>
-      <link>https://johnilee.github.io/authors/daniel-j.-price/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/daniel-j.-price/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dominika M. Boneberg</title>
       <link>https://johnilee.github.io/authors/dominika-m.-boneberg/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
@@ -783,15 +1872,6 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/guillaume-laibe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inga Kamp</title>
-      <link>https://johnilee.github.io/authors/inga-kamp/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/inga-kamp/</guid>
       <description></description>
     </item>
     
@@ -832,24 +1912,6 @@
     </item>
     
     <item>
-      <title>Richard Teague</title>
-      <link>https://johnilee.github.io/authors/richard-teague/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/richard-teague/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefano Facchini</title>
-      <link>https://johnilee.github.io/authors/stefano-facchini/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/stefano-facchini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Subhanjoy Mohanty</title>
       <link>https://johnilee.github.io/authors/subhanjoy-mohanty/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
@@ -868,20 +1930,227 @@
     </item>
     
     <item>
-      <title>Thomas J. Haworth</title>
-      <link>https://johnilee.github.io/authors/thomas-j.-haworth/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <title>Alexis Matter</title>
+      <link>https://johnilee.github.io/authors/alexis-matter/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/authors/thomas-j.-haworth/</guid>
+      <guid>https://johnilee.github.io/authors/alexis-matter/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Wladimir Lyra</title>
-      <link>https://johnilee.github.io/authors/wladimir-lyra/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <title>Arnaud Pierens</title>
+      <link>https://johnilee.github.io/authors/arnaud-pierens/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/authors/wladimir-lyra/</guid>
+      <guid>https://johnilee.github.io/authors/arnaud-pierens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bertram Bitsch</title>
+      <link>https://johnilee.github.io/authors/bertram-bitsch/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/bertram-bitsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clement Baruteau</title>
+      <link>https://johnilee.github.io/authors/clement-baruteau/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/clement-baruteau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Buscher</title>
+      <link>https://johnilee.github.io/authors/david-buscher/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/david-buscher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric L.~N. Jensen</title>
+      <link>https://johnilee.github.io/authors/eric-l.~n.-jensen/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/eric-l.~n.-jensen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frederic Masset</title>
+      <link>https://johnilee.github.io/authors/frederic-masset/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/frederic-masset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gautam Vasisht</title>
+      <link>https://johnilee.github.io/authors/gautam-vasisht/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/gautam-vasisht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joshua Pepper</title>
+      <link>https://johnilee.github.io/authors/joshua-pepper/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/joshua-pepper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jörg-Uwe Pott</title>
+      <link>https://johnilee.github.io/authors/j%C3%B6rg-uwe-pott/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/j%C3%B6rg-uwe-pott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konrad R.~W. Tristram</title>
+      <link>https://johnilee.github.io/authors/konrad-r.~w.-tristram/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/konrad-r.~w.-tristram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis Henry Quiroga-Nuñez</title>
+      <link>https://johnilee.github.io/authors/luis-henry-quiroga-nu%C3%B1ez/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/luis-henry-quiroga-nu%C3%B1ez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew R. Bate</title>
+      <link>https://johnilee.github.io/authors/matthew-r.-bate/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/matthew-r.-bate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael J. Ireland</title>
+      <link>https://johnilee.github.io/authors/michael-j.-ireland/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/michael-j.-ireland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phil Armitage</title>
+      <link>https://johnilee.github.io/authors/phil-armitage/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/phil-armitage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard P. Nelson</title>
+      <link>https://johnilee.github.io/authors/richard-p.-nelson/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/richard-p.-nelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sean Raymond</title>
+      <link>https://johnilee.github.io/authors/sean-raymond/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/sean-raymond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Hönig</title>
+      <link>https://johnilee.github.io/authors/sebastian-h%C3%B6nig/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/sebastian-h%C3%B6nig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sijme-Jan Paardekooper</title>
+      <link>https://johnilee.github.io/authors/sijme-jan-paardekooper/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/sijme-jan-paardekooper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen R. Kane</title>
+      <link>https://johnilee.github.io/authors/stephen-r.-kane/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/stephen-r.-kane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Ridgway</title>
+      <link>https://johnilee.github.io/authors/steve-ridgway/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/steve-ridgway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim J. Harries</title>
+      <link>https://johnilee.github.io/authors/tim-j.-harries/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/tim-j.-harries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.~R. Fairlamb</title>
+      <link>https://johnilee.github.io/authors/j.~r.-fairlamb/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/j.~r.-fairlamb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.~E. van den Ancker</title>
+      <link>https://johnilee.github.io/authors/m.~e.-van-den-ancker/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/m.~e.-van-den-ancker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R.~D. Oudmaijer</title>
+      <link>https://johnilee.github.io/authors/r.~d.-oudmaijer/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/r.~d.-oudmaijer/</guid>
       <description></description>
     </item>
     
@@ -949,6 +2218,15 @@
     </item>
     
     <item>
+      <title>Jane S. Greaves</title>
+      <link>https://johnilee.github.io/authors/jane-s.-greaves/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/jane-s.-greaves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>J. Fairlamb</title>
       <link>https://johnilee.github.io/authors/j.-fairlamb/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
@@ -1008,6 +2286,78 @@
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/t.-a.-douglas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H.~E. Wheelwright</title>
+      <link>https://johnilee.github.io/authors/h.~e.-wheelwright/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/h.~e.-wheelwright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.~C. Mottram</title>
+      <link>https://johnilee.github.io/authors/j.~c.-mottram/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/j.~c.-mottram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.~S. Urquhart</title>
+      <link>https://johnilee.github.io/authors/j.~s.-urquhart/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/j.~s.-urquhart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L.~T. Maud</title>
+      <link>https://johnilee.github.io/authors/l.~t.-maud/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/l.~t.-maud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.~G. Hoare</title>
+      <link>https://johnilee.github.io/authors/m.~g.-hoare/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/m.~g.-hoare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.~L. Lumsden</title>
+      <link>https://johnilee.github.io/authors/s.~l.-lumsden/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/s.~l.-lumsden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T.~J.~T. Moore</title>
+      <link>https://johnilee.github.io/authors/t.~j.~t.-moore/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/t.~j.~t.-moore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W.~J. de Wit</title>
+      <link>https://johnilee.github.io/authors/w.~j.-de-wit/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/w.~j.-de-wit/</guid>
       <description></description>
     </item>
     
@@ -1107,6 +2457,42 @@
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/t.-j.-t.-moore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.~C. Boley</title>
+      <link>https://johnilee.github.io/authors/a.~c.-boley/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/a.~c.-boley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.~M.~C. Rawlings</title>
+      <link>https://johnilee.github.io/authors/j.~m.~c.-rawlings/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/j.~m.~c.-rawlings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R.~H. Durisen</title>
+      <link>https://johnilee.github.io/authors/r.~h.-durisen/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/r.~h.-durisen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T.~W. Hartquist</title>
+      <link>https://johnilee.github.io/authors/t.~w.-hartquist/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/t.~w.-hartquist/</guid>
       <description></description>
     </item>
     

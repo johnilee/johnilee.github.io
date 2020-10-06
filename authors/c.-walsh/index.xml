@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/c.-walsh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VizieR Online Data Catalog: HD 97048 H13CO&#43; and HC15N first detections (Booth&#43;, 2019)</title>
+      <link>https://johnilee.github.io/publication/2019-y-cat-36290075-b/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-y-cat-36290075-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Observing substructure in circumstellar discs around massive young stellar objects</title>

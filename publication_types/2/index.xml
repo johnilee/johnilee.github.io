@@ -7,17 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>13C17O suggests gravitational instability in the HL Tau disc</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Observing protoplanetary discs with the Square Kilometre Array - I. Characterizing pebble substructure caused by forming planets</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
+      <guid>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing the Kinematics of Planet Formation</title>
+      <link>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A three-dimensional view of Gomez&#39;s hamburger</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-495-451-t/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-495-451-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>13C17O suggests gravitational instability in the HL Tau disc</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</guid>
       <description></description>
     </item>
     
@@ -49,6 +76,15 @@
     </item>
     
     <item>
+      <title>VizieR Online Data Catalog: HD 97048 H13CO&#43; and HC15N first detections (Booth&#43;, 2019)</title>
+      <link>https://johnilee.github.io/publication/2019-y-cat-36290075-b/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-y-cat-36290075-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Consistent Dust and Gas Models for Protoplanetary Disks. III. Models for Selected Objects from the FP7 DIANA Project</title>
       <link>https://johnilee.github.io/publication/2019-pasp-131-f-4301-w/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -63,6 +99,15 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2019-aa-625-a-66-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VizieR Online Data Catalog: X-ray data for 56 protoplanetary disk sources (Dionatos&#43; 2019)</title>
+      <link>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</guid>
       <description></description>
     </item>
     
@@ -184,6 +229,15 @@
     </item>
     
     <item>
+      <title>A Keplerian Disk Around a Massive Young Proto-O Star</title>
+      <link>https://johnilee.github.io/publication/2017-sman-23-2-i/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2017-sman-23-2-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>G11.92-0.61 MM1: a Keplerian disc around a massive young proto-O star</title>
       <link>https://johnilee.github.io/publication/2016-mnras-462-4386-i/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -207,6 +261,15 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2016-pasa-33-53-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VizieR Online Data Catalog: Herbig Ae/Be X-shooter observations (Fairlamb&#43;, 2015)</title>
+      <link>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</guid>
       <description></description>
     </item>
     
