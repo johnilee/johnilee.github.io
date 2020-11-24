@@ -4,29 +4,123 @@
   
   <url>
     <loc>https://johnilee.github.io/publication/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/talk/uclan_2020/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://johnilee.github.io/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/talk/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/publication_types/2/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/james-m.-miley/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/john-d.-ilee/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/masanobu-kunitomo/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/olja-pani%C4%87/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/publication_types/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/richard-a.-booth/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/authors/shigeru-ida/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/publication/2020-mnras-tmp-3308-m/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/planets-and-satellites-composition/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/protoplanetary-discs/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/tags/stars-pre-main-sequence/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://johnilee.github.io/talk/leiden_2020/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/talk/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication_types/2/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -37,24 +131,6 @@
   
   <url>
     <loc>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -138,12 +214,6 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/john-d.-ilee/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://johnilee.github.io/authors/judit-szulagyi/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -197,12 +267,6 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/publication_types/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://johnilee.github.io/authors/richard-teague/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -239,12 +303,6 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/tags/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://johnilee.github.io/authors/tyler-l.-bourke/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -274,19 +332,7 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/tags/protoplanetary-discs/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/stars-pre-main-sequence/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -480,12 +526,6 @@
   
   <url>
     <loc>https://johnilee.github.io/authors/r.-a.-booth/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/planets-and-satellites-composition/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1686,12 +1726,6 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/authors/richard-a.-booth/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://johnilee.github.io/tags/planets-and-satellites-atmospheres/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1855,12 +1889,6 @@
   
   <url>
     <loc>https://johnilee.github.io/authors/mark-a.-hutchison/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/olja-pani%C4%87/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

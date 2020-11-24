@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>James M. Miley</title>
+      <link>https://johnilee.github.io/authors/james-m.-miley/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/james-m.-miley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John D. Ilee</title>
+      <link>https://johnilee.github.io/authors/john-d.-ilee/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/john-d.-ilee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masanobu Kunitomo</title>
+      <link>https://johnilee.github.io/authors/masanobu-kunitomo/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/masanobu-kunitomo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olja Panić</title>
+      <link>https://johnilee.github.io/authors/olja-pani%C4%87/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/olja-pani%C4%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard A. Booth</title>
+      <link>https://johnilee.github.io/authors/richard-a.-booth/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/richard-a.-booth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shigeru Ida</title>
+      <link>https://johnilee.github.io/authors/shigeru-ida/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/authors/shigeru-ida/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aleksandra Kuznetsova</title>
@@ -135,15 +189,6 @@
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/jeffrey-fung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John D. Ilee</title>
-      <link>https://johnilee.github.io/authors/john-d.-ilee/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/john-d.-ilee/</guid>
       <description></description>
     </item>
     
@@ -1732,15 +1777,6 @@
     </item>
     
     <item>
-      <title>Richard A. Booth</title>
-      <link>https://johnilee.github.io/authors/richard-a.-booth/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/richard-a.-booth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Attila Juhász</title>
       <link>https://johnilee.github.io/authors/attila-juh%C3%A1sz/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
@@ -1890,15 +1926,6 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/authors/mark-a.-hutchison/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Olja Panić</title>
-      <link>https://johnilee.github.io/authors/olja-pani%C4%87/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/authors/olja-pani%C4%87/</guid>
       <description></description>
     </item>
     

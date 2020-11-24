@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Astrophysics - Astrophysics of Galaxies</title>
-      <link>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Astrophysics - Earth and Planetary Astrophysics</title>
       <link>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</guid>
       <description></description>
@@ -33,9 +24,45 @@
     <item>
       <title>Astrophysics - Solar and Stellar Astrophysics</title>
       <link>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planets and satellites: composition</title>
+      <link>https://johnilee.github.io/tags/planets-and-satellites-composition/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/planets-and-satellites-composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protoplanetary discs</title>
+      <link>https://johnilee.github.io/tags/protoplanetary-discs/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/protoplanetary-discs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stars: pre-main sequence</title>
+      <link>https://johnilee.github.io/tags/stars-pre-main-sequence/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/stars-pre-main-sequence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astrophysics - Astrophysics of Galaxies</title>
+      <link>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</guid>
       <description></description>
     </item>
     
@@ -58,29 +85,11 @@
     </item>
     
     <item>
-      <title>protoplanetary discs</title>
-      <link>https://johnilee.github.io/tags/protoplanetary-discs/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/protoplanetary-discs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>radio continuum: planetary systems</title>
       <link>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stars: pre-main sequence</title>
-      <link>https://johnilee.github.io/tags/stars-pre-main-sequence/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/stars-pre-main-sequence/</guid>
       <description></description>
     </item>
     
@@ -207,15 +216,6 @@
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/submillimeter-planetary-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>planets and satellites: composition</title>
-      <link>https://johnilee.github.io/tags/planets-and-satellites-composition/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/planets-and-satellites-composition/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/olja-pani%C4%87/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The impact of pre-main sequence stellar evolution on midplane snowline locations and C/O in planet forming discs</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-tmp-3308-m/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-3308-m/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grand Challenges in Protoplanetary Disc Modelling</title>
