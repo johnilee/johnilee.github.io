@@ -8,14 +8,25 @@
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/talk/uclan_2020/</loc>
-    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <loc>https://johnilee.github.io/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://johnilee.github.io/</loc>
-    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <loc>https://johnilee.github.io/project/maps/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/project/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/talk/uclan_2020/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,6 +264,11 @@
     <loc>https://johnilee.github.io/authors/natascha-manger/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/project/ska_discs/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -692,22 +708,6 @@
   <url>
     <loc>https://johnilee.github.io/project/myso-submm/</loc>
     <lastmod>2019-05-23T21:38:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/project/maps/</loc>
-    <lastmod>2019-05-23T21:38:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/project/ska_discs/</loc>
-    <lastmod>2019-05-23T21:38:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/project/</loc>
-    <lastmod>2019-05-23T21:38:06+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -7,10 +7,26 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://johnilee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Molecules with ALMA at Planet Forming Scales</title>
+      <link>https://johnilee.github.io/project/maps/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/project/maps/</guid>
+      <description>&lt;p&gt;Planets form and obtain their compositions in dust and gas-rich disks around young stars. The planet forming process is intimately linked to the disk chemical structure.
+First, chemistry shapes the outcome of planet formation, including planetary hospitality to life. Second, the chemistry is sensitive to the distribution of dust and pebbles
+in disks, and as planets open up disk gaps they may change the chemical environment within which they form. Third, molecular emission is often the only tool we have to explore
+disk ionization levels, kinematics and mass distribution, all key ingredients of planet formation models. We proposed a Large Program to map out the radial and vertical disk
+chemical structures at 10 au scales, in five disks where dust sub-structure is detected and planet formation appears to be ongoing. The resulting data give us access to the chemistry
+in the planet forming zone of disks, allows us to explore how ongoing planet formation shape the disk chemistry environment, and helps constrain the disk gas properties in the previously
+unexplored inner disk midplane.  We are currently working hard to reduce, image and analyse the data.  We are excited to share the results with the community soon.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Departmental Seminar</title>
@@ -37,6 +53,64 @@
       
       <guid>https://johnilee.github.io/talk/leiden_2020/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Observing Planet Forming Discs with the SKA</title>
+      <link>https://johnilee.github.io/project/ska_discs/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/project/ska_discs/</guid>
+      <description>&lt;p&gt;The Square Kilometre Array (SKA) is a next-generation radio interferometer.  The mid-frequency array, SKA1-MID, will be hosted in South Africa and consist of around 200 individual antennas separated by up to 150 km.  Together these will produce observations that are up to five times more sensitive and four times more detailed than those possible with current instruments operating at similar frequencies.  These capabilities mean that the SKA will open the door to unprecedented studies of planet-forming discs.&lt;/p&gt;
+
+&lt;p&gt;Observations of continuum emission from large (cm-sized) dust grains in discs will allow us to probe the raw material available for planet formation.  I recently made the first predictions for what the SKA might be able to observe in a disc hosting young planets, which can be seen in Figure 1.  We found that the SKA will provide high-fidelity observations of the cm dust emission substructure in discs for integration times totalling hundreds of hours. Radial structure can be obtained at a sufficient resolution and S/N from shorter (tens of hours) integration times by azimuthal averaging in the image plane. By modelling the intensity distribution directly in the visibility plane, it is possible to recover a similar level of (axisymmetric) structural detail from observations with integration times one to two orders of magnitude lower than required for high-fidelity imaging. Our results demonstrate that SKA1-MID will provide crucial constraints on the distribution and morphology of the raw material for building planets.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://johnilee.github.io/img/ska_12GHz.jpg&#34; alt=&#34;Figure 1: Simulated SKA continuum observations at 12.5 GHz for angular resolutions of 34 mas (left) and 67 mas (right) with an integration time of 1000 hrs achievable with repeated monitoring observational campaign. The positions of the planets in the underlying model are shown with blue crosses.&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Figure 1: Simulated SKA continuum observations at 12.5 GHz for angular resolutions of 34 mas (left) and 67 mas (right) with an integration time of 1000 hrs achievable with repeated monitoring observational campaign. The positions of the planets in the underlying model are shown with blue crosses.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;At these operating frequencies (10&amp;rsquo;s of GHz) many transitions of complex molecules also exist, and are unhindered by the line confusion and continuum opacity that plagues (sub-)millimetre observations. Using a model of complex organic molecules (COMs) in one of the best studied protoplanetary discs, TW Hya, I made predictions for the observability of these species across SKA Band 5 (5-15 GHz) along with the proposed Band 6 (15-25 or 15-50 GHz).  Our simulated spectra (Figure 2) show that the extension of Band 6 to 50 GHz will be essential in allowing us to characterise how COMs form and evolve across the star and planet formation process.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://johnilee.github.io/img/tw_hya.jpg&#34; alt=&#34;Figure 2: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Figure 2: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;The full white paper on the potential for SKA Band 6 receivers &lt;a href=&#34;http://www.skatelescope.org/wp-content/uploads/2020/02/ScienceCase_band6_Feb2020.pdf&#34; target=&#34;_blank&#34;&gt;can be viewed here.&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -263,80 +337,6 @@
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Molecules with ALMA at Planet Forming Scales</title>
-      <link>https://johnilee.github.io/project/maps/</link>
-      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
-      
-      <guid>https://johnilee.github.io/project/maps/</guid>
-      <description>&lt;p&gt;Planets form and obtain their compositions in dust and gas-rich disks around young stars. The planet forming process is intimately linked to the disk chemical structure.
-First, chemistry shapes the outcome of planet formation, including planetary hospitality to life. Second, the chemistry is sensitive to the distribution of dust and pebbles
-in disks, and as planets open up disk gaps they may change the chemical environment within which they form. Third, molecular emission is often the only tool we have to explore
-disk ionization levels, kinematics and mass distribution, all key ingredients of planet formation models. We proposed a Large Program to map out the radial and vertical disk
-chemical structures at 10 au scales, in five disks where dust sub-structure is detected and planet formation appears to be ongoing. The resulting data give us access to the chemistry
-in the planet forming zone of disks, allows us to explore how ongoing planet formation shape the disk chemistry environment, and helps constrain the disk gas properties in the previously
-unexplored inner disk midplane.  We are currently working hard to reduce, image and analyse the data.  We are excited to share the results with the community soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Observing Planet Forming Discs with the SKA</title>
-      <link>https://johnilee.github.io/project/ska_discs/</link>
-      <pubDate>Thu, 23 May 2019 21:38:06 +0100</pubDate>
-      
-      <guid>https://johnilee.github.io/project/ska_discs/</guid>
-      <description>&lt;p&gt;The Square Kilometre Array (SKA) is a next-generation radio interferometer.  The mid-frequency array, SKA1-MID, will be hosted in South Africa and consist of around 200 individual antennas separated by up to 150 km.  Together these will produce observations that are up to five times more sensitive and four times more detailed than those possible with current instruments operating at similar frequencies.  These capabilities mean that the SKA will open the door to unprecedented studies of planet-forming discs.&lt;/p&gt;
-
-&lt;p&gt;Observations of continuum emission from large (cm-sized) dust grains in discs will allow us to probe the raw material available for planet formation.  I recently made the first predictions for what the SKA might be able to observe in a disc hosting young planets, which can be seen in Figure 1.  We found that the SKA will provide high-fidelity observations of the cm dust emission substructure in discs for integration times totalling hundreds of hours. Radial structure can be obtained at a sufficient resolution and S/N from shorter (tens of hours) integration times by azimuthal averaging in the image plane. By modelling the intensity distribution directly in the visibility plane, it is possible to recover a similar level of (axisymmetric) structural detail from observations with integration times one to two orders of magnitude lower than required for high-fidelity imaging. Our results demonstrate that SKA1-MID will provide crucial constraints on the distribution and morphology of the raw material for building planets.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;https://johnilee.github.io/img/ska_12GHz.jpg&#34; alt=&#34;Figure 1: Simulated SKA continuum observations at 12.5 GHz for angular resolutions of 34 mas (left) and 67 mas (right) with an integration time of 1000 hrs achievable with repeated monitoring observational campaign. The positions of the planets in the underlying model are shown with blue crosses.&#34; width=&#34;100%&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  
-  &lt;p&gt;
-    Figure 1: Simulated SKA continuum observations at 12.5 GHz for angular resolutions of 34 mas (left) and 67 mas (right) with an integration time of 1000 hrs achievable with repeated monitoring observational campaign. The positions of the planets in the underlying model are shown with blue crosses.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;At these operating frequencies (10&amp;rsquo;s of GHz) many transitions of complex molecules also exist, and are unhindered by the line confusion and continuum opacity that plagues (sub-)millimetre observations. Using a model of complex organic molecules (COMs) in one of the best studied protoplanetary discs, TW Hya, I made predictions for the observability of these species across SKA Band 5 (5-15 GHz) along with the proposed Band 6 (15-25 or 15-50 GHz).  Our simulated spectra (Figure 2) show that the extension of Band 6 to 50 GHz will be essential in allowing us to characterise how COMs form and evolve across the star and planet formation process.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;https://johnilee.github.io/img/tw_hya.jpg&#34; alt=&#34;Figure 2: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.&#34; width=&#34;100%&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  
-  &lt;p&gt;
-    Figure 2: Simulated SKA observations of complex organic molecules in the TW Hya protoplanetary disc.  The proposed Band 6 receivers from 15-50 GHz provide the best chance of detecting transitions of these important molecules.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;The full white paper on the potential for SKA Band 6 receivers &lt;a href=&#34;http://www.skatelescope.org/wp-content/uploads/2020/02/ScienceCase_band6_Feb2020.pdf&#34; target=&#34;_blank&#34;&gt;can be viewed here.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
