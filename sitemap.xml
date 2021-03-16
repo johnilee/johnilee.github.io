@@ -9,8 +9,18 @@
   
   <url>
     <loc>https://johnilee.github.io/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/talk/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnilee.github.io/talk/ska_2021/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -26,11 +36,6 @@
   
   <url>
     <loc>https://johnilee.github.io/talk/uclan_2020/</loc>
-    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/talk/</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -364,6 +369,12 @@
   </url>
   
   <url>
+    <loc>https://johnilee.github.io/tags/accretion/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnilee.github.io/authors/chunhua-qi/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -377,12 +388,6 @@
   
   <url>
     <loc>https://johnilee.github.io/authors/thomas-j.-haworth/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/accretion/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
