@@ -7,10 +7,55 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://johnilee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The complex organic chemistry of planet formation</title>
+      <link>https://johnilee.github.io/talk/af_2021/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/talk/af_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlocking the organic chemistry of protoplanetary discs with JWST</title>
+      <link>https://johnilee.github.io/talk/jwst_2021/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/talk/jwst_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-band GRAVITY/VLTI interferometry of ``extreme&#39;&#39; Herbig Be stars. The size-luminosity relation revisited</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210607675-m/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210607675-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An inherited complex organic molecule reservoir in a warm planet-hosting disk</title>
+      <link>https://johnilee.github.io/publication/2021-nat-as-tmp-81-b/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-nat-as-tmp-81-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet Forming Scales (MAPS)</title>
+      <link>https://johnilee.github.io/talk/ukexom_2021/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/talk/ukexom_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Uncovering the physical and chemical raw material for planet formation with the SKA</title>
@@ -18,6 +63,33 @@
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/talk/ska_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting a Young 2 Jupiter Mass Planet Embedded in the Disk of HD 163296</title>
+      <link>https://johnilee.github.io/publication/2021-jwst-prop-2153-c/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-jwst-prop-2153-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution observations of molecular emission lines toward the CI Tau proto-planetary disc: planet-carved gaps or shadowing?</title>
+      <link>https://johnilee.github.io/publication/2021-mnras-501-3427-r/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-mnras-501-3427-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Chemistry of Planet Formation: A JWST-ALMA Survey of 4 Planet-Forming Disks</title>
+      <link>https://johnilee.github.io/publication/2021-jwst-prop-2025-o/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-jwst-prop-2025-o/</guid>
       <description></description>
     </item>
     
@@ -38,11 +110,29 @@ unexplored inner disk midplane.  We are currently working hard to reduce, image 
     </item>
     
     <item>
+      <title>The impact of pre-main sequence stellar evolution on mid-plane snowline locations and C/O in planet forming discs</title>
+      <link>https://johnilee.github.io/publication/2021-mnras-500-4658-m/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-mnras-500-4658-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Departmental Seminar</title>
       <link>https://johnilee.github.io/talk/uclan_2020/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/talk/uclan_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing protoplanetary discs with the Square Kilometre Array - I. Characterizing pebble substructure caused by forming planets</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</guid>
       <description></description>
     </item>
     
@@ -123,15 +213,6 @@ unexplored inner disk midplane.  We are currently working hard to reduce, image 
     </item>
     
     <item>
-      <title>Observing protoplanetary discs with the Square Kilometre Array - I. Characterizing pebble substructure caused by forming planets</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Visualizing the Kinematics of Planet Formation</title>
       <link>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -141,20 +222,20 @@ unexplored inner disk midplane.  We are currently working hard to reduce, image 
     </item>
     
     <item>
+      <title>A three-dimensional view of Gomez&#39;s hamburger</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-495-451-t/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-495-451-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Star &amp; Planet Formation Seminar</title>
       <link>https://johnilee.github.io/talk/eso_2020/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/talk/eso_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A three-dimensional view of Gomez&#39;s hamburger</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-495-451-t/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2020-mnras-495-451-t/</guid>
       <description></description>
     </item>
     
@@ -173,6 +254,15 @@ unexplored inner disk midplane.  We are currently working hard to reduce, image 
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/talk/maps_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$^13$C$^17$O suggests gravitational instability in the HL Tau disc</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
       <description></description>
     </item>
     
@@ -213,7 +303,7 @@ unexplored inner disk midplane.  We are currently working hard to reduce, image 
     </item>
     
     <item>
-      <title>First detections of H13CO&#43; and HC15N in the disk around HD 97048. Evidence for a cold gas reservoir in the outer disk</title>
+      <title>First detections of H$^13$CO$^&#43;$ and HC$^15$N in the disk around HD 97048. Evidence for a cold gas reservoir in the outer disk</title>
       <link>https://johnilee.github.io/publication/2019-aa-629-a-75-b/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
@@ -222,7 +312,7 @@ unexplored inner disk midplane.  We are currently working hard to reduce, image 
     </item>
     
     <item>
-      <title>The First Detection of 13C17O in a Protoplanetary Disk: A Robust Tracer of Disk Gas Mass</title>
+      <title>The First Detection of $^13$C$^17$O in a Protoplanetary Disk: A Robust Tracer of Disk Gas Mass</title>
       <link>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       

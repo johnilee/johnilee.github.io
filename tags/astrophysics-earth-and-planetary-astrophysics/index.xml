@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An inherited complex organic molecule reservoir in a warm planet-hosting disk</title>
+      <link>https://johnilee.github.io/publication/2021-nat-as-tmp-81-b/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-nat-as-tmp-81-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution observations of molecular emission lines toward the CI Tau proto-planetary disc: planet-carved gaps or shadowing?</title>
+      <link>https://johnilee.github.io/publication/2021-mnras-501-3427-r/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-mnras-501-3427-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of pre-main sequence stellar evolution on mid-plane snowline locations and C/O in planet forming discs</title>
+      <link>https://johnilee.github.io/publication/2021-mnras-500-4658-m/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-mnras-500-4658-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing protoplanetary discs with the Square Kilometre Array - I. Characterizing pebble substructure caused by forming planets</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The impact of pre-main sequence stellar evolution on midplane snowline locations and C/O in planet forming discs</title>
@@ -18,15 +54,6 @@
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2020-mnras-tmp-3308-m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Observing protoplanetary discs with the Square Kilometre Array - I. Characterizing pebble substructure caused by forming planets</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</guid>
       <description></description>
     </item>
     
@@ -42,7 +69,7 @@
     <item>
       <title>A three-dimensional view of Gomez&#39;s hamburger</title>
       <link>https://johnilee.github.io/publication/2020-mnras-495-451-t/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2020-mnras-495-451-t/</guid>
       <description></description>
@@ -58,7 +85,16 @@
     </item>
     
     <item>
-      <title>First detections of H13CO&#43; and HC15N in the disk around HD 97048. Evidence for a cold gas reservoir in the outer disk</title>
+      <title>$^13$C$^17$O suggests gravitational instability in the HL Tau disc</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First detections of H$^13$CO$^&#43;$ and HC$^15$N in the disk around HD 97048. Evidence for a cold gas reservoir in the outer disk</title>
       <link>https://johnilee.github.io/publication/2019-aa-629-a-75-b/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
@@ -67,7 +103,7 @@
     </item>
     
     <item>
-      <title>The First Detection of 13C17O in a Protoplanetary Disk: A Robust Tracer of Disk Gas Mass</title>
+      <title>The First Detection of $^13$C$^17$O in a Protoplanetary Disk: A Robust Tracer of Disk Gas Mass</title>
       <link>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       

@@ -7,96 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Astrophysics - Earth and Planetary Astrophysics</title>
-      <link>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Astrophysics - Solar and Stellar Astrophysics</title>
-      <link>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>planets and satellites: composition</title>
-      <link>https://johnilee.github.io/tags/planets-and-satellites-composition/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/planets-and-satellites-composition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>protoplanetary discs</title>
-      <link>https://johnilee.github.io/tags/protoplanetary-discs/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/protoplanetary-discs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stars: pre-main sequence</title>
-      <link>https://johnilee.github.io/tags/stars-pre-main-sequence/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/stars-pre-main-sequence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Astrophysics - Astrophysics of Galaxies</title>
       <link>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>planet-disc interactions</title>
-      <link>https://johnilee.github.io/tags/planet-disc-interactions/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Astrophysics - Instrumentation and Methods for Astrophysics</title>
+      <link>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/planet-disc-interactions/</guid>
+      <guid>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>planets and satellites: formation</title>
-      <link>https://johnilee.github.io/tags/planets-and-satellites-formation/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Astrophysics - Solar and Stellar Astrophysics</title>
+      <link>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/planets-and-satellites-formation/</guid>
+      <guid>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>radio continuum: planetary systems</title>
-      <link>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Astrophysics - Earth and Planetary Astrophysics</title>
+      <link>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</guid>
+      <guid>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accretion</title>
       <link>https://johnilee.github.io/tags/accretion/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/accretion/</guid>
       <description></description>
@@ -105,7 +60,7 @@
     <item>
       <title>accretion discs</title>
       <link>https://johnilee.github.io/tags/accretion-discs/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/accretion-discs/</guid>
       <description></description>
@@ -114,16 +69,79 @@
     <item>
       <title>circumstellar matter</title>
       <link>https://johnilee.github.io/tags/circumstellar-matter/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/circumstellar-matter/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>planets and satellites: formation</title>
+      <link>https://johnilee.github.io/tags/planets-and-satellites-formation/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/planets-and-satellites-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protoplanetary discs</title>
+      <link>https://johnilee.github.io/tags/protoplanetary-discs/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/protoplanetary-discs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stars: pre-main sequence</title>
+      <link>https://johnilee.github.io/tags/stars-pre-main-sequence/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/stars-pre-main-sequence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>submillimetre: planetary systems</title>
+      <link>https://johnilee.github.io/tags/submillimetre-planetary-systems/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/submillimetre-planetary-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planets and satellites: composition</title>
+      <link>https://johnilee.github.io/tags/planets-and-satellites-composition/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/planets-and-satellites-composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planet-disc interactions</title>
+      <link>https://johnilee.github.io/tags/planet-disc-interactions/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/planet-disc-interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radio continuum: planetary systems</title>
+      <link>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>stars: formation</title>
       <link>https://johnilee.github.io/tags/stars-formation/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/stars-formation/</guid>
       <description></description>
@@ -139,20 +157,20 @@
     </item>
     
     <item>
-      <title>submillimetre: planetary systems</title>
-      <link>https://johnilee.github.io/tags/submillimetre-planetary-systems/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/submillimetre-planetary-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>techniques: interferometric</title>
       <link>https://johnilee.github.io/tags/techniques-interferometric/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/techniques-interferometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>individual: HL Tau</title>
+      <link>https://johnilee.github.io/tags/individual-hl-tau/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/individual-hl-tau/</guid>
       <description></description>
     </item>
     
@@ -369,15 +387,6 @@
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/planetdisk-interactions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Astrophysics - Instrumentation and Methods for Astrophysics</title>
-      <link>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</guid>
       <description></description>
     </item>
     

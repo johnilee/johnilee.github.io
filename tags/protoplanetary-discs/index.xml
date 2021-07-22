@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/protoplanetary-discs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>High-resolution observations of molecular emission lines toward the CI Tau proto-planetary disc: planet-carved gaps or shadowing?</title>
+      <link>https://johnilee.github.io/publication/2021-mnras-501-3427-r/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-mnras-501-3427-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of pre-main sequence stellar evolution on mid-plane snowline locations and C/O in planet forming discs</title>
+      <link>https://johnilee.github.io/publication/2021-mnras-500-4658-m/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-mnras-500-4658-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing protoplanetary discs with the Square Kilometre Array - I. Characterizing pebble substructure caused by forming planets</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The impact of pre-main sequence stellar evolution on midplane snowline locations and C/O in planet forming discs</title>
@@ -22,20 +49,20 @@
     </item>
     
     <item>
-      <title>Observing protoplanetary discs with the Square Kilometre Array - I. Characterizing pebble substructure caused by forming planets</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>13C17O suggests gravitational instability in the HL Tau disc</title>
       <link>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$^13$C$^17$O suggests gravitational instability in the HL Tau disc</title>
+      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
       <description></description>
     </item>
     

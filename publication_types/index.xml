@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>2</title>
       <link>https://johnilee.github.io/publication_types/2/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>0</title>
+      <link>https://johnilee.github.io/publication_types/0/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication_types/0/</guid>
       <description></description>
     </item>
     
