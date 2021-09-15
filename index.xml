@@ -99,13 +99,28 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/project/maps/</guid>
-      <description>&lt;p&gt;Planets form and obtain their compositions in dust and gas-rich disks around young stars. The planet forming process is intimately linked to the disk chemical structure.
-First, chemistry shapes the outcome of planet formation, including planetary hospitality to life. Second, the chemistry is sensitive to the distribution of dust and pebbles
-in disks, and as planets open up disk gaps they may change the chemical environment within which they form. Third, molecular emission is often the only tool we have to explore
-disk ionization levels, kinematics and mass distribution, all key ingredients of planet formation models. We proposed a Large Program to map out the radial and vertical disk
-chemical structures at 10 au scales, in five disks where dust sub-structure is detected and planet formation appears to be ongoing. The resulting data give us access to the chemistry
-in the planet forming zone of disks, allows us to explore how ongoing planet formation shape the disk chemistry environment, and helps constrain the disk gas properties in the previously
-unexplored inner disk midplane.  We are currently working hard to reduce, image and analyse the data.  We are excited to share the results with the community soon.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Planets form and obtain their compositions in disks around young stars, and the outcome of this process is intimately linked to the disk chemistry and structure.&lt;/p&gt;
+
+&lt;p&gt;&amp;lsquo;Molecules with ALMA at Planet-forming Scales&amp;rsquo; (MAPS) is an ALMA Large Program (2018.1.01055.L) designed to expand our understanding of the chemistry of planet formation by exploring protoplanetary disk chemical structures down to 10 au scales.&lt;/p&gt;
+
+&lt;p&gt;Together these observations provide constraints on a range of disk properties related to planet formation. In particular, MAPS was designed to answer the following key questions&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How are dust and chemical substructures linked?&lt;/li&gt;
+&lt;li&gt;Where do molecules reside vertically in the disks?&lt;/li&gt;
+&lt;li&gt;What are the main organic reservoirs, C/N/O/S, and D/H ratios in the planet-forming disk regions?&lt;/li&gt;
+&lt;li&gt;How can we probe ionization and dynamic disk processes?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can find out more about the MAPS results at the &lt;a href=&#34;http://www.alma-maps.info&#34; title=&#34;http://www.alma-maps.info&#34; target=&#34;_blank&#34;&gt;dedicated project website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;maps-ix-the-distribution-and-properties-of-large-organic-molecules&#34;&gt;MAPS IX: The distribution and properties of large organic molecules&lt;/h3&gt;
+
+&lt;p&gt;Within MAPS, I led the analysis of the largest molecules observed.  My paper, &lt;a href=&#34;http://www.alma-maps.info/publications.html#MAPS_IX&#34; title=&#34;MAPS IX&#34; target=&#34;_blank&#34;&gt;MAPS IX&lt;/a&gt;, investigates the prebiotically-interesting molecules HC&lt;sub&gt;3&lt;/sub&gt;N, CH&lt;sub&gt;3&lt;/sub&gt;CN, &lt;em&gt;c&lt;/em&gt;-C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;, which are robustly detected in all disks apart from IM Lup. We use rotation diagram analysis to infer a radially-resolved column density and rotational temperature profile for each molecule in each disk. Based on this, we find significant reservoirs of these large organics in the inner 50-100 au of the disks, emitting from very close to the midplane. Comparison of the ratio of small to large organic molecules in the disks suggests a similar composition to observations of comets. In combination, our results suggest that planets form in an environment rich with precursors of life-essential molecules, and this material has a composition similar to our own Solar System.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;MAPS_IX_Ilee.png&#34; alt=&#34;MAPS IX Diagram&#34; title=&#34;MAPS IX Diagram&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
