@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,41 +15,122 @@
     <item>
       <title>Astrophysics - Astrophysics of Galaxies</title>
       <link>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Astrophysics - Instrumentation and Methods for Astrophysics</title>
-      <link>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Astrophysics - Solar and Stellar Astrophysics</title>
       <link>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>protoplanetary discs</title>
+      <link>https://johnilee.github.io/tags/protoplanetary-discs/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/protoplanetary-discs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radiative transfer</title>
+      <link>https://johnilee.github.io/tags/radiative-transfer/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/radiative-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stars: protostars</title>
+      <link>https://johnilee.github.io/tags/stars-protostars/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/stars-protostars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Astrophysics - Earth and Planetary Astrophysics</title>
       <link>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>accretion</title>
+      <title>Astrophysics - Instrumentation and Methods for Astrophysics</title>
+      <link>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics - Computational Physics</title>
+      <link>https://johnilee.github.io/tags/physics-computational-physics/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/physics-computational-physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>astrochemistry</title>
+      <link>https://johnilee.github.io/tags/astrochemistry/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/astrochemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hydrodynamics</title>
+      <link>https://johnilee.github.io/tags/hydrodynamics/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/hydrodynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods: numerical</title>
+      <link>https://johnilee.github.io/tags/methods-numerical/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/methods-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods: statistical</title>
+      <link>https://johnilee.github.io/tags/methods-statistical/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/methods-statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://johnilee.github.io/tags/software/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accretion</title>
       <link>https://johnilee.github.io/tags/accretion/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -81,15 +162,6 @@
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/planets-and-satellites-formation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>protoplanetary discs</title>
-      <link>https://johnilee.github.io/tags/protoplanetary-discs/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/protoplanetary-discs/</guid>
       <description></description>
     </item>
     
@@ -166,11 +238,47 @@
     </item>
     
     <item>
-      <title>individual: HL Tau</title>
-      <link>https://johnilee.github.io/tags/individual-hl-tau/</link>
+      <title>planetary systems: protoplanetary disks</title>
+      <link>https://johnilee.github.io/tags/planetary-systems-protoplanetary-disks/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/tags/individual-hl-tau/</guid>
+      <guid>https://johnilee.github.io/tags/planetary-systems-protoplanetary-disks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1241</title>
+      <link>https://johnilee.github.io/tags/1241/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/1241/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1300</title>
+      <link>https://johnilee.github.io/tags/1300/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/1300/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1647</title>
+      <link>https://johnilee.github.io/tags/1647/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/1647/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>75</title>
+      <link>https://johnilee.github.io/tags/75/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/tags/75/</guid>
       <description></description>
     </item>
     
@@ -189,15 +297,6 @@
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/submillimeter-astronomy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>astrochemistry</title>
-      <link>https://johnilee.github.io/tags/astrochemistry/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/astrochemistry/</guid>
       <description></description>
     </item>
     
@@ -319,15 +418,6 @@
     </item>
     
     <item>
-      <title>radiative transfer</title>
-      <link>https://johnilee.github.io/tags/radiative-transfer/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/radiative-transfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>stars: massive</title>
       <link>https://johnilee.github.io/tags/stars-massive/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -355,15 +445,6 @@
     </item>
     
     <item>
-      <title>stars: protostars</title>
-      <link>https://johnilee.github.io/tags/stars-protostars/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/stars-protostars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>submillimeter: ISM</title>
       <link>https://johnilee.github.io/tags/submillimeter-ism/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
@@ -373,16 +454,7 @@
     </item>
     
     <item>
-      <title>hydrodynamics</title>
-      <link>https://johnilee.github.io/tags/hydrodynamics/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/hydrodynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>planet─disk interactions</title>
+      <title>planet–disk interactions</title>
       <link>https://johnilee.github.io/tags/planetdisk-interactions/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -504,15 +576,6 @@
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/tags/line-formation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methods: numerical</title>
-      <link>https://johnilee.github.io/tags/methods-numerical/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/tags/methods-numerical/</guid>
       <description></description>
     </item>
     

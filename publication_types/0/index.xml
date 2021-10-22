@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chemulator: Thermochemical emulator for hydrodynamical modeling</title>
+      <link>https://johnilee.github.io/publication/2021-ascl-soft-08016-h/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ascl-soft-08016-h/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecting a Young 2 Jupiter Mass Planet Embedded in the Disk of HD 163296</title>

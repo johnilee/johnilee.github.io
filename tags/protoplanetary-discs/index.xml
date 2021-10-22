@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/protoplanetary-discs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The young protostellar disc in IRAS 16293-2422 B is hot and shows signatures of gravitational instability</title>
+      <link>https://johnilee.github.io/publication/2021-mnras-508-2583-z/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-mnras-508-2583-z/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High-resolution observations of molecular emission lines toward the CI Tau proto-planetary disc: planet-carved gaps or shadowing?</title>
@@ -40,29 +49,11 @@
     </item>
     
     <item>
-      <title>The impact of pre-main sequence stellar evolution on midplane snowline locations and C/O in planet forming discs</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-tmp-3308-m/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-3308-m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>13C17O suggests gravitational instability in the HL Tau disc</title>
+      <title>$^13$C$^17$O suggests gravitational instability in the HL Tau disc</title>
       <link>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>$^13$C$^17$O suggests gravitational instability in the HL Tau disc</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
       <description></description>
     </item>
     

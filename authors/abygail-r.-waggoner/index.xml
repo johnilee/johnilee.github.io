@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abygail R. Waggoner on John Ilee</title>
+    <link>https://johnilee.github.io/authors/abygail-r.-waggoner/</link>
+    <description>Recent content in Abygail R. Waggoner on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/authors/abygail-r.-waggoner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) II: CLEAN Strategies for Synthesizing Images of Molecular Line Emission in Protoplanetary Disks</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906188-c/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906188-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

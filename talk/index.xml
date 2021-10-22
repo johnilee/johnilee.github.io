@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mapping the organic chemistry of protoplanetary disks</title>
+      <link>https://johnilee.github.io/talk/miapp_2021/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/talk/miapp_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The complex organic chemistry of planet formation</title>

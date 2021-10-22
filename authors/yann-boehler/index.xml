@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yann Boehler on John Ilee</title>
+    <link>https://johnilee.github.io/authors/yann-boehler/</link>
+    <description>Recent content in Yann Boehler on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/authors/yann-boehler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS XVIII): Kinematic Substructures in the Disks of HD 163296 and MWC 480</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906218-t/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906218-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) III: Characteristics of Radial Chemical Substructures</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906210-l/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906210-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

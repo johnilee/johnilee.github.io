@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The young protostellar disc in IRAS 16293-2422 B is hot and shows signatures of gravitational instability</title>
+      <link>https://johnilee.github.io/publication/2021-mnras-508-2583-z/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-mnras-508-2583-z/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Observing substructure in circumstellar discs around massive young stellar objects</title>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Viti on John Ilee</title>
+    <link>https://johnilee.github.io/authors/s.-viti/</link>
+    <description>Recent content in S. Viti on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/authors/s.-viti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chemulator: Fast, accurate thermochemistry for dynamical models through emulation</title>
+      <link>https://johnilee.github.io/publication/2021-aa-653-a-76-h/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-aa-653-a-76-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemulator: Thermochemical emulator for hydrodynamical modeling</title>
+      <link>https://johnilee.github.io/publication/2021-ascl-soft-08016-h/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ascl-soft-08016-h/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

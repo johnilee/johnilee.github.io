@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) II: CLEAN Strategies for Synthesizing Images of Molecular Line Emission in Protoplanetary Disks</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906188-c/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906188-c/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>K-band GRAVITY/VLTI interferometry of ``extreme&#39;&#39; Herbig Be stars. The size-luminosity relation revisited</title>

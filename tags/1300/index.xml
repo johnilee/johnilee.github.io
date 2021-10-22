@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1300 on John Ilee</title>
+    <link>https://johnilee.github.io/tags/1300/</link>
+    <description>Recent content in 1300 on John Ilee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://johnilee.github.io/tags/1300/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The First Detection of $^13$C$^17$O in a Protoplanetary Disk: A Robust Tracer of Disk Gas Mass</title>
+      <link>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

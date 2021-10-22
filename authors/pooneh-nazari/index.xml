@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/pooneh-nazari/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ALMA observations of the Extended Green Object G19.01$-$0.03: I. A Keplerian disc in a massive protostellar system</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-211006262-w/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-211006262-w/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Keplerian Disk Around a Massive Young Proto-O Star</title>
@@ -18,6 +27,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2017-sman-23-2-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G11.92—0.61 MM1: A disc around a young massive star?</title>
+      <link>https://johnilee.github.io/publication/2016-fsms-conf-e-1-i/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2016-fsms-conf-e-1-i/</guid>
       <description></description>
     </item>
     

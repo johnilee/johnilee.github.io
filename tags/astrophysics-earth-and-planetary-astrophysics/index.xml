@@ -7,17 +7,188 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An inherited complex organic molecule reservoir in a warm planet-hosting disk</title>
-      <link>https://johnilee.github.io/publication/2021-nat-as-tmp-81-b/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS XVIII): Kinematic Substructures in the Disks of HD 163296 and MWC 480</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906218-t/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://johnilee.github.io/publication/2021-nat-as-tmp-81-b/</guid>
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906218-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) II: CLEAN Strategies for Synthesizing Images of Molecular Line Emission in Protoplanetary Disks</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906188-c/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906188-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) III: Characteristics of Radial Chemical Substructures</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906210-l/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906210-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) IV: Emission Surfaces and Vertical Distribution of Molecules</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906217-l/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906217-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) V: CO gas distributions</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906233-z/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906233-z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) VI: Distribution of the small organics HCN, C2H, and H2CO</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906391-g/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906391-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) VIII: CO Gap in AS 209--Gas Depletion or Chemical Processing?</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906263-a/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906263-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) XI: CN and HCN as Tracers of Photochemistry in Disks</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906694-b/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906694-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) XII: Inferring the C/O and S/H ratios in Protoplanetary Disks with Sulfur Molecules</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906286-l/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906286-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) XIII: HCO$^&#43;$ and disk ionization structure</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906419-a/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906419-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) XIV: Revealing disk substructures in multi-wavelength continuum emission</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906433-s/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906433-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) XIX. Spiral Arms, a Tail, and Diffuse Structures Traced by CO around the GM Aur Disk</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906224-h/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906224-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) XVI: Characterizing the impact of the molecular wind on the evolution of the HD 163296 system</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906586-b/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906586-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS) XVII: Determining the 2D Thermal Structure of the HD 163296 Disk</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906202-c/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906202-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). IX. Distribution and Properties of the Large Organic Molecules HC$_3$N, CH$_3$CN, and $c$-C$_3$H$_2$</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906319-i/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906319-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). VII. Sub-stellar O/H and C/H and super-stellar C/O in planet feeding gas</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906221-b/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906221-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). X. Studying deuteration at high angular resolution toward protoplanetary disks</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906462-c/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906462-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XV. Tracing protoplanetary disk structure within 20 au</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906223-b/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906223-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales. XX. The Massive Disk Around GM Aurigae</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210906228-s/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906228-s/</guid>
       <description></description>
     </item>
     
@@ -27,6 +198,15 @@
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2021-mnras-501-3427-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An inherited complex organic molecule reservoir in a warm planet-hosting disk</title>
+      <link>https://johnilee.github.io/publication/2021-nat-as-5-684-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-nat-as-5-684-b/</guid>
       <description></description>
     </item>
     
@@ -49,15 +229,6 @@
     </item>
     
     <item>
-      <title>The impact of pre-main sequence stellar evolution on midplane snowline locations and C/O in planet forming discs</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-tmp-3308-m/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-3308-m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Visualizing the Kinematics of Planet Formation</title>
       <link>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -76,20 +247,11 @@
     </item>
     
     <item>
-      <title>13C17O suggests gravitational instability in the HL Tau disc</title>
+      <title>$^13$C$^17$O suggests gravitational instability in the HL Tau disc</title>
       <link>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>$^13$C$^17$O suggests gravitational instability in the HL Tau disc</title>
-      <link>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2020-mnras-tmp-l-14-b/</guid>
       <description></description>
     </item>
     

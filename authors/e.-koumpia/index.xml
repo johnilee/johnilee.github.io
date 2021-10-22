@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/e.-koumpia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The first interferometric survey in the K-band of massive YSOs. On the hot dust, ionised gas, and binarity at au scales</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210802868-k/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210802868-k/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>K-band GRAVITY/VLTI interferometry of ``extreme&#39;&#39; Herbig Be stars. The size-luminosity relation revisited</title>

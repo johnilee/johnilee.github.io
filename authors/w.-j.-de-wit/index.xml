@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>W. J. de Wit on John Ilee</title>
+    <title>W. -J. de Wit on John Ilee</title>
     <link>https://johnilee.github.io/authors/w.-j.-de-wit/</link>
-    <description>Recent content in W. J. de Wit on John Ilee</description>
+    <description>Recent content in W. -J. de Wit on John Ilee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/w.-j.-de-wit/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The first interferometric survey in the K-band of massive YSOs. On the hot dust, ionised gas, and binarity at au scales</title>
+      <link>https://johnilee.github.io/publication/2021-ar-xiv-210802868-k/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ar-xiv-210802868-k/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>K-band GRAVITY/VLTI interferometry of ``extreme&#39;&#39; Herbig Be stars. The size-luminosity relation revisited</title>
@@ -18,33 +27,6 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2021-ar-xiv-210607675-m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-resolution Br ensuremathγ spectro-interferometry of the transitional Herbig Ae/Be star HD 100546: a Keplerian gaseous disc inside the inner rim</title>
-      <link>https://johnilee.github.io/publication/2015-mnras-453-2126-m/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2015-mnras-453-2126-m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CO bandhead emission of massive young stellar objects: determining disc properties</title>
-      <link>https://johnilee.github.io/publication/2013-mnras-429-2960-i/</link>
-      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2013-mnras-429-2960-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMBER and CRIRES observations of the binary sgB[e] star HD 327083: evidence of a gaseous disc traced by CO bandhead emission</title>
-      <link>https://johnilee.github.io/publication/2012-aa-543-a-77-w/</link>
-      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://johnilee.github.io/publication/2012-aa-543-a-77-w/</guid>
       <description></description>
     </item>
     
