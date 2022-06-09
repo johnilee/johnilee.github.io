@@ -7,10 +7,78 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://johnilee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks</title>
+      <link>https://johnilee.github.io/publication/2022-ar-xiv-220501776-l/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2022-ar-xiv-220501776-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erratum: ``Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures&#39;&#39; (2021, ApJS, 257, 3)</title>
+      <link>https://johnilee.github.io/publication/2022-ap-js-260-23-l/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2022-ap-js-260-23-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the outer dust disc of TW Hya with deep ALMA observations</title>
+      <link>https://johnilee.github.io/publication/2022-ar-xiv-220501396-i/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2022-ar-xiv-220501396-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery of a 500 au Protobinary in the Massive Prestellar Core G11.92-0.61 MM2</title>
+      <link>https://johnilee.github.io/publication/2022-ar-xiv-220409163-c/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2022-ar-xiv-220409163-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALMA observations of the Extended Green Object G19.01-0.03 - I. A Keplerian disc in a massive protostellar system</title>
+      <link>https://johnilee.github.io/publication/2022-mnras-509-748-w/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2022-mnras-509-748-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coming soon...</title>
+      <link>https://johnilee.github.io/post/tbc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/post/tbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the outermost regions of discs</title>
+      <link>https://johnilee.github.io/project/twhya-frank/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/project/twhya-frank/</guid>
+      <description>
+
+&lt;h2 id=&#34;the-outermost-regions-of-protoplanetary-disks&#34;&gt;The outermost regions of protoplanetary disks&lt;/h2&gt;
+
+&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The young protostellar disc in IRAS 16293-2422 B is hot and shows signatures of gravitational instability</title>
@@ -18,6 +86,186 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2021-mnras-508-2583-z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). I. Program Overview and Highlights</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-1-o/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-1-o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). II. CLEAN Strategies for Synthesizing Images of Molecular Line Emission in Protoplanetary Disks</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-2-c/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-2-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-3-l/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-3-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). IV. Emission Surfaces and Vertical Distribution of Molecules</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-4-l/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-4-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). IX. Distribution and Properties of the Large Organic Molecules HC$_3$N, CH$_3$CN, and c-C$_3$H$_2$</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-9-i/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-9-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). V. CO Gas Distributions</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-5-z/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-5-z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). VI. Distribution of the Small Organics HCN, C$_2$H, and H$_2$CO</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-6-g/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-6-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). VII. Substellar O/H and C/H and Superstellar C/O in Planet-feeding Gas</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-7-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-7-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). VIII. CO Gap in AS 209-Gas Depletion or Chemical Processing?</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-8-a/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-8-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). X. Studying Deuteration at High Angular Resolution toward Protoplanetary Disks</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-10-c/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-10-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XI. CN and HCN as Tracers of Photochemistry in Disks</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-11-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-11-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XII. Inferring the C/O and S/H Ratios in Protoplanetary Disks with Sulfur Molecules</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-12-l/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-12-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XIII. HCO$^&#43;$ and Disk Ionization Structure</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-13-a/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-13-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XIV. Revealing Disk Substructures in Multiwavelength Continuum Emission</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-14-s/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-14-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XIX. Spiral Arms, a Tail, and Diffuse Structures Traced by CO around the GM Aur Disk</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-19-h/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-19-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XV. Tracing Protoplanetary Disk Structure within 20 au</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-15-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-15-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XVI. Characterizing the Impact of the Molecular Wind on the Evolution of the HD 163296 System</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-16-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-16-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XVII. Determining the 2D Thermal Structure of the HD 163296 Disk</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-17-c/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-17-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XVIII. Kinematic Substructures in the Disks of HD 163296 and MWC 480</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-18-t/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-18-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales. XX. The Massive Disk around GM Aurigae</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-20-s/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-20-s/</guid>
       <description></description>
     </item>
     
@@ -45,6 +293,15 @@
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2021-ar-xiv-211006262-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first interferometric survey of massive YSOs in the K-band. Hot dust, ionised gas, and binarity at au scales</title>
+      <link>https://johnilee.github.io/publication/2021-aa-654-a-109-k/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-aa-654-a-109-k/</guid>
       <description></description>
     </item>
     
@@ -247,6 +504,15 @@
     </item>
     
     <item>
+      <title>K-band GRAVITY/VLTI interferometry of ``extreme&#39;&#39; Herbig Be stars. The size-luminosity relation revisited</title>
+      <link>https://johnilee.github.io/publication/2021-aa-652-a-68-m/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-aa-652-a-68-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The first interferometric survey in the K-band of massive YSOs. On the hot dust, ionised gas, and binarity at au scales</title>
       <link>https://johnilee.github.io/publication/2021-ar-xiv-210802868-k/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
@@ -337,7 +603,7 @@
     </item>
     
     <item>
-      <title>Complex organics in planet forming disks</title>
+      <title>Complex organics in planet forming discs</title>
       <link>https://johnilee.github.io/project/coms/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
@@ -346,7 +612,7 @@
 
 &lt;h2 id=&#34;large-organic-molecules-in-maps&#34;&gt;Large organic molecules in MAPS&lt;/h2&gt;
 
-&lt;p&gt;Within the &amp;lsquo;Molecules with ALMA at Planet-forming Scales&amp;rsquo; (MAPS) project, I led the analysis of the largest molecules observed.  My paper, &lt;a href=&#34;http://www.alma-maps.info/publications.html#MAPS_IX&#34; title=&#34;MAPS IX&#34; target=&#34;_blank&#34;&gt;MAPS IX&lt;/a&gt;, investigates the prebiotically-interesting molecules HC&lt;sub&gt;3&lt;/sub&gt;N, CH&lt;sub&gt;3&lt;/sub&gt;CN, &lt;em&gt;c&lt;/em&gt;-C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;, which are robustly detected in all disks apart from IM Lup. We use rotation diagram analysis to infer a radially-resolved column density and rotational temperature profile for each molecule in each disk. Based on this, we find significant reservoirs of these large organics in the inner 50-100 au of the disks, emitting from very close to the midplane. Comparison of the ratio of small to large organic molecules in the disks suggests a similar composition to observations of comets. In combination, our results suggest that planets form in an environment rich with precursors of life-essential molecules, and this material has a composition similar to our own Solar System.&lt;/p&gt;
+&lt;p&gt;Within the &amp;lsquo;Molecules with ALMA at Planet-forming Scales&amp;rsquo; (MAPS) project, I led the analysis of the largest molecules observed.  My paper, &lt;a href=&#34;http://www.alma-maps.info/publications.html#MAPS_IX&#34; title=&#34;MAPS IX&#34; target=&#34;_blank&#34;&gt;MAPS IX&lt;/a&gt;, investigates the prebiotically-interesting molecules HC&lt;sub&gt;3&lt;/sub&gt;N, CH&lt;sub&gt;3&lt;/sub&gt;CN, &lt;em&gt;c&lt;/em&gt;-C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;, which are robustly detected in all discs apart from IM Lup. We use rotation diagram analysis to infer a radially-resolved column density and rotational temperature profile for each molecule in each disc. Based on this, we find significant reservoirs of these large organics in the inner 50-100 au of the discs, emitting from very close to the midplane. Comparison of the ratio of small to large organic molecules in the discs suggests a similar composition to observations of comets. In combination, our results suggest that planets form in an environment rich with precursors of life-essential molecules, and this material has a composition similar to our own Solar System.&lt;/p&gt;
 
 &lt;p&gt;This work received significant attention in the international press, with write-ups being featured in &lt;a href=&#34;https://www.telegraph.co.uk/news/2021/09/15/chances-alien-life-galaxy-far-likely-first-thought/&#34; target=&#34;_blank&#34;&gt;The Telegraph&lt;/a&gt;,
 &lt;a href=&#34;https://www.newscientist.com/article/2290817-maps-of-planetary-nurseries-will-help-the-complex-hunt-for-alien-life/&#34; target=&#34;_blank&#34;&gt;New Scientist&lt;/a&gt;, &lt;a href=&#34;https://www.forbes.com/sites/jamiecartereurope/2021/09/16/conditions-that-triggered-life-on-earth-could-exist-more-widely-across-the-milky-way-say-scientists-in-landmark-study&#34; target=&#34;_blank&#34;&gt;Forbes&lt;/a&gt; and &lt;a href=&#34;http://alma-maps.info/press.html&#34; target=&#34;_blank&#34;&gt;many others&lt;/a&gt;.&lt;/p&gt;
@@ -879,29 +1145,6 @@
     </item>
     
     <item>
-      <title>PHY 3281: Star &amp; Planet Formation</title>
-      <link>https://johnilee.github.io/post/spf_2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://johnilee.github.io/post/spf_2018/</guid>
-      <description>
-
-&lt;h2 id=&#34;university-of-leeds&#34;&gt;University of Leeds&lt;/h2&gt;
-
-&lt;p&gt;Autumn 2018&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Discussion 1: Bok Globules &lt;a href=&#34;https://minerva.leeds.ac.uk/&#34; target=&#34;_blank&#34;&gt;[Minerva]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Workshop 1 &lt;a href=&#34;https://minerva.leeds.ac.uk/&#34; target=&#34;_blank&#34;&gt;[Minerva]&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Discussion 2: The Initial Mass Function &lt;a href=&#34;https://minerva.leeds.ac.uk/&#34; target=&#34;_blank&#34;&gt;[Minerva]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Workshop 2 &lt;a href=&#34;https://minerva.leeds.ac.uk/&#34; target=&#34;_blank&#34;&gt;[Minerva]&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Discussion 3: Massive Star Formation &lt;a href=&#34;https://minerva.leeds.ac.uk/&#34; target=&#34;_blank&#34;&gt;[Minerva]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Workshop 3 &lt;a href=&#34;https://minerva.leeds.ac.uk/&#34; target=&#34;_blank&#34;&gt;[Minerva]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Blinded by the light: on the relationship between CO first overtone emission and mass accretion rate in massive young stellar objects</title>
       <link>https://johnilee.github.io/publication/2018-mnras-477-3360-i/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
@@ -1088,29 +1331,6 @@
       
       <guid>https://johnilee.github.io/publication/2015-mnras-453-2126-m/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>AS 5002: Magnetofluids &amp; Space Plasmas</title>
-      <link>https://johnilee.github.io/post/mfsp_2015/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://johnilee.github.io/post/mfsp_2015/</guid>
-      <description>
-
-&lt;h2 id=&#34;university-of-st-andrews&#34;&gt;University of St Andrews&lt;/h2&gt;
-
-&lt;p&gt;Autumn 2015&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Molecular clouds &amp;amp; the virial theorem &lt;a href=&#34;https://moody.st-andrews.ac.uk/moodle/&#34; target=&#34;_blank&#34;&gt;[Moodle]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Jeans length &amp;amp; mass &lt;a href=&#34;https://moody.st-andrews.ac.uk/moodle/&#34; target=&#34;_blank&#34;&gt;[Moodle]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Magnetic support mechanisms &lt;a href=&#34;https://moody.st-andrews.ac.uk/moodle/&#34; target=&#34;_blank&#34;&gt;[Moodle]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Cloud contraction &amp;amp; fragmentation &lt;a href=&#34;https://moody.st-andrews.ac.uk/moodle/&#34; target=&#34;_blank&#34;&gt;[Moodle]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The angular momentum problem &lt;a href=&#34;https://moody.st-andrews.ac.uk/moodle/&#34; target=&#34;_blank&#34;&gt;[Moodle]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Young stellar objects, T Tauri stars &amp;amp; discs &lt;a href=&#34;https://moody.st-andrews.ac.uk/moodle/&#34; target=&#34;_blank&#34;&gt;[Moodle]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>

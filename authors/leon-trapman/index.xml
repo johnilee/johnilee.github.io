@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/authors/leon-trapman/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). V. CO Gas Distributions</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-5-z/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-5-z/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Molecules with ALMA at Planet-forming Scales (MAPS) V: CO gas distributions</title>

@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks</title>
+      <link>https://johnilee.github.io/publication/2022-ar-xiv-220501776-l/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2022-ar-xiv-220501776-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery of a 500 au Protobinary in the Massive Prestellar Core G11.92-0.61 MM2</title>
+      <link>https://johnilee.github.io/publication/2022-ar-xiv-220409163-c/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2022-ar-xiv-220409163-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALMA observations of the Extended Green Object G19.01-0.03 - I. A Keplerian disc in a massive protostellar system</title>
+      <link>https://johnilee.github.io/publication/2022-mnras-509-748-w/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2022-mnras-509-748-w/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The young protostellar disc in IRAS 16293-2422 B is hot and shows signatures of gravitational instability</title>
@@ -22,11 +49,101 @@
     </item>
     
     <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). I. Program Overview and Highlights</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-1-o/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-1-o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-3-l/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-3-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). IV. Emission Surfaces and Vertical Distribution of Molecules</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-4-l/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-4-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). IX. Distribution and Properties of the Large Organic Molecules HC$_3$N, CH$_3$CN, and c-C$_3$H$_2$</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-9-i/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-9-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). X. Studying Deuteration at High Angular Resolution toward Protoplanetary Disks</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-10-c/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-10-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XI. CN and HCN as Tracers of Photochemistry in Disks</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-11-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-11-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XII. Inferring the C/O and S/H Ratios in Protoplanetary Disks with Sulfur Molecules</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-12-l/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-12-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XIII. HCO$^&#43;$ and Disk Ionization Structure</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-13-a/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-13-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecules with ALMA at Planet-forming Scales (MAPS). XVI. Characterizing the Impact of the Molecular Wind on the Evolution of the HD 163296 System</title>
+      <link>https://johnilee.github.io/publication/2021-ap-js-257-16-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-ap-js-257-16-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ALMA observations of the Extended Green Object G19.01$-$0.03: I. A Keplerian disc in a massive protostellar system</title>
       <link>https://johnilee.github.io/publication/2021-ar-xiv-211006262-w/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2021-ar-xiv-211006262-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first interferometric survey of massive YSOs in the K-band. Hot dust, ionised gas, and binarity at au scales</title>
+      <link>https://johnilee.github.io/publication/2021-aa-654-a-109-k/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-aa-654-a-109-k/</guid>
       <description></description>
     </item>
     
@@ -117,6 +234,15 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://johnilee.github.io/publication/2021-ar-xiv-210906462-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-band GRAVITY/VLTI interferometry of ``extreme&#39;&#39; Herbig Be stars. The size-luminosity relation revisited</title>
+      <link>https://johnilee.github.io/publication/2021-aa-652-a-68-m/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/publication/2021-aa-652-a-68-m/</guid>
       <description></description>
     </item>
     
