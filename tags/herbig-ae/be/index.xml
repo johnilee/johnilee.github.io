@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Herbig Ae/Be on John Ilee</title>
@@ -6,12 +6,7 @@
     <description>Recent content in Herbig Ae/Be on John Ilee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://johnilee.github.io/tags/herbig-ae/be/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright><atom:link href="https://johnilee.github.io/tags/herbig-ae/be/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>K-band GRAVITY/VLTI interferometry of ``extreme&#39;&#39; Herbig Be stars. The size-luminosity relation revisited</title>
       <link>https://johnilee.github.io/publication/2021-aa-652-a-68-m/</link>

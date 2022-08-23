@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Merel L.~R. van&#39;t Hoff on John Ilee</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://johnilee.github.io/authors/merel-l.~r.-vant-hoff/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://johnilee.github.io/authors/merel-l.~r.-vant-hoff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Erratum: ``Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures&#39;&#39; (2021, ApJS, 257, 3)</title>
       <link>https://johnilee.github.io/publication/2022-ap-js-260-23-l/</link>

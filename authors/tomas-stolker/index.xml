@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomas Stolker on John Ilee</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://johnilee.github.io/authors/tomas-stolker/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://johnilee.github.io/authors/tomas-stolker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Detecting a Young 2 Jupiter Mass Planet Embedded in the Disk of HD 163296</title>
       <link>https://johnilee.github.io/publication/2021-jwst-prop-2153-c/</link>

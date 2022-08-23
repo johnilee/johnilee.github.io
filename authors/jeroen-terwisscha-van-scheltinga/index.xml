@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeroen Terwisscha van Scheltinga on John Ilee</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://johnilee.github.io/authors/jeroen-terwisscha-van-scheltinga/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://johnilee.github.io/authors/jeroen-terwisscha-van-scheltinga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An inherited complex organic molecule reservoir in a warm planet-hosting disk</title>
       <link>https://johnilee.github.io/publication/2021-nat-as-5-684-b/</link>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on John Ilee</title>
@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://johnilee.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping the (complex) chemistry of exoplanet formation</title>
+      <link>https://johnilee.github.io/talk/eas_2022_maps/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/talk/eas_2022_maps/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://johnilee.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Observing protoplanetary discs with the Square Kilometre Array</title>
+      <link>https://johnilee.github.io/talk/eas_2022_ska/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/talk/eas_2022_ska/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mapping the chemistry of (exo)planet formation</title>

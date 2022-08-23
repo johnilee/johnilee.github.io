@@ -1,3733 +1,1945 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://johnilee.github.io/project/exoalma/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/project/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/talk/eas_2022_maps/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/talk/eas_2022_ska/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/talk/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/publication_types/2/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/alice-s.-booth/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/anibal-sierra/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/arthur-d.-bosman/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/astrophysics-astrophysics-of-galaxies/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/astrophysics-earth-and-planetary-astrophysics/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/astrophysics-solar-and-stellar-astrophysics/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2022-ar-xiv-220501776-l/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/catherine-walsh/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/charles-j.-law/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/chunhua-qi/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2022-ar-xiv-220501776-l/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/authors/dary-ruiz-rodriguez/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/david-j.-wilner/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/edwin-a.-bergin/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2022-ap-js-260-23-l/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/evan-a.-rich/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/felipe-alarc%C3%B3n/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/feng-long/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/fran%C3%A7ois-m%C3%A9nard/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/gianni-cataldi/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/giovanni-p.-rosotti/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/hideko-nomura/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/ian-czekala/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jaehan-bae/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jane-huang/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jeff-jennings/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jennifer-b.-bergner/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jenny-k.-calahan/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/joel-h.-kastner/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/john-d.-ilee/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/kamber-r.-schwarz/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/karin-i.-%C3%B6berg/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/ke-zhang/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/kenji-furuya/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/kevin-flaherty/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/l.-ilsedore-cleeves/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/laura-m.-p%C3%A9rez/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/merel-l.~r.-vant-hoff/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication_types/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/richard-a.-booth/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/richard-teague/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/romane-le-gal/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/ryan-a.-loomis/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sage-crystian/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sean-m.-andrews/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sebasti%C3%A1n-p%C3%A9rez/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/takashi-tsukagoshi/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2022-ar-xiv-220501396-i/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/viviana-v.-guzm%C3%A1n/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/yann-boehler/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/yao-liu/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/yoshihide-yamato/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/yuri-aikawa/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.~j.-cyganowski/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.~l.-brogan/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2022-ar-xiv-220409163-c/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/j.~d.-ilee/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/s.-zhang/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/t.~j.-harries/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/t.~j.-haworth/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/t.~r.-hunter/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2022-mnras-509-748-w/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/post/tbc/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/g.~m.-williams/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/i.~a.-bonnell/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/j.~m.~d.-kruijssen/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/p.-nazari/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/post/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/project/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.~j.-smith/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/project/twhya-frank/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/masers/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/p.-nazari/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/post/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/r.~j.-smith/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-formation/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-individual-g19.01-0.03/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-massive/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-protostars/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/techniques-interferometric/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/project/twhya-frank/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/authors/bo-zhao/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/duncan-forgan/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/hauyu-baobab-liu/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/joaquin-zamponi/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/maria-jose-maureira/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/paola-caselli/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-mnras-508-2583-z/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/protoplanetary-discs/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/radiative-transfer/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-mnras-508-2583-z/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1061/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/11/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1241/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1257/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1300/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1335/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1338/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1340/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1346/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1647/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/1910/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/2167/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/224/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/235/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/236/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/492/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/53/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/74/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/75/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/808/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/832/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/849/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/854/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/86/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/867/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/abundance-ratios/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/abygail-r.-waggoner/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/aperture-synthesis/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/astrobiology/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/astronomical-models/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/beno%C4%B1%CC%82t-tabone/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/chemical-abundances/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/circumstellar-disks/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/circumstellar-dust/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/daniela-soto/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/deconvolution/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/enrique-mac%C4%B1%CC%81as/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/ewine-van-dishoeck/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/exoplanet-formation/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/high-angular-resolution/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/interferometry/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/interstellar-abundances/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/interstellar-molecules/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/interstellar-scattering/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/isotopic-abundances/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/l.-ilse-cleeves/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/leon-trapman/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/melissa-mcclure/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/millimeter-astronomy/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-1-o/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-2-c/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-3-l/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-4-l/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-9-i/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-5-z/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-6-g/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-7-b/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-8-a/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-10-c/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-11-b/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-12-l/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-13-a/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-14-s/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-19-h/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-15-b/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-16-b/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-17-c/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-18-t/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ap-js-257-20-s/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/myriam-benisty/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/nicolas-t.-kurtovic/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/paul-kalas/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/planet-formation/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/planetary-system-formation/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/protoplanetary-disks/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/radio-astronomy/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/radio-continuum-emission/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/radio-interferometry/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/submillimeter-astronomy/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/astrochemistry/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/astronomical-models/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/astrophysics-instrumentation-and-methods-for-astrophysics/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/beno%C4%B1%CC%82t-tabone/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/chemical-abundances/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/circumstellar-disks/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/circumstellar-dust/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/daniela-soto/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/deconvolution/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/enrique-mac%C4%B1%CC%81as/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/ewine-van-dishoeck/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/exoplanet-formation/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/high-angular-resolution/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/interferometry/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/interstellar-abundances/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/interstellar-molecules/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/interstellar-scattering/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/isotopic-abundances/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/l.-ilse-cleeves/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/leon-trapman/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/melissa-mcclure/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/millimeter-astronomy/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-1-o/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-2-c/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-3-l/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-4-l/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-9-i/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-5-z/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-6-g/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-7-b/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-8-a/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-10-c/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-11-b/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-12-l/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-13-a/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-14-s/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-19-h/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-15-b/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-16-b/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-17-c/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-18-t/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ap-js-257-20-s/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/myriam-benisty/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/nicolas-t.-kurtovic/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/paul-kalas/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/planet-formation/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/planetary-system-formation/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/protoplanetary-disks/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/radio-astronomy/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/radio-continuum-emission/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/radio-interferometry/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/submillimeter-astronomy/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/talk/warwick_2021/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/talk/</loc>
-    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/miapp_2021/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/a.-caratti-o-garatti/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/a.~j.-frost/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-211006262-w/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/b.-stecklum/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/claudia-j.-cyganowski/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/crystal-l.-brogan/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/e.-koumpia/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/gwenllian-m.-williams/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/i.-mendigutia/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/ian-a.-bonnell/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.~m.-diederik-kruijssen/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/m.-vioque/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/pooneh-nazari/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.~d.-oudmaijer/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/rowan-j.-smith/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-lumsden/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.~p.-goodwin/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-aa-654-a-109-k/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/todd-r.-hunter/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/w.-j.-de-wit/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/accretion/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/accretion-disks/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-211006262-w/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/b.-stecklum/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/binaries-including-multiple-close/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/claudia-j.-cyganowski/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/crystal-l.-brogan/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/e.-koumpia/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/gwenllian-m.-williams/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/i.-mendigutia/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/ian-a.-bonnell/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/j.~m.-diederik-kruijssen/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/m.-vioque/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/pooneh-nazari/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/r.~d.-oudmaijer/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/rowan-j.-smith/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/s.-lumsden/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/s.~p.-goodwin/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-aa-654-a-109-k/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/todd-r.-hunter/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/w.-j.-de-wit/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/authors/alice-booth/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/arthur-bosman/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/benoit-tabone/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2021-aa-653-a-76-h/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/edwin-bergin/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/felipe-alarcon/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/francois-menard/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/francois-m%C3%A9nard/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-holdship/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/jenny-calahan/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/karin-i-%C3%B6berg/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/karin-i.-oberg/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/karin-%C3%B6berg/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/laura-m.-perez/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/merel-l.~r.-van-t-hoff/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906218-t/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906188-c/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906210-l/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906217-l/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906233-z/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906391-g/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906263-a/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906694-b/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906286-l/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906419-a/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906433-s/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906224-h/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906586-b/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906202-c/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906319-i/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906221-b/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906462-c/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906223-b/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906228-s/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/physics-computational-physics/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-viti/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/viviana-v.-guzman/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/hydrodynamics/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/j.-holdship/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/jenny-calahan/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/karin-i-%C3%B6berg/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/karin-i.-oberg/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/karin-%C3%B6berg/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/laura-m.-perez/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/merel-l.~r.-van-t-hoff/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/methods-numerical/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/methods-statistical/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906218-t/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906268-o/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906188-c/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906210-l/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906217-l/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906233-z/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906391-g/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906263-a/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906694-b/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906286-l/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906419-a/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906433-s/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906224-h/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906586-b/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906202-c/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906319-i/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906221-b/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906462-c/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906223-b/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210906228-s/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/physics-computational-physics/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/s.-viti/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/viviana-v.-guzman/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/publication_types/0/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/b.-montesinos/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.-wichittanakom/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2021-ascl-soft-08016-h/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/herbig-ae/be/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-guzman-diaz/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-aa-652-a-68-m/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/p.-marcos-arenal/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/software/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210802868-k/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/w.~j.-de-wit/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/instrumentation-interferometers/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/j.-guzman-diaz/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-aa-652-a-68-m/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/p.-marcos-arenal/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/software/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-pre-main-sequence/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-variables-t-tauri/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-ar-xiv-210802868-k/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/w.~j.-de-wit/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/talk/af_2021/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/jwst_2021/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/j.-d.-ilee/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2021-ar-xiv-210607675-m/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/r.-d.-oudmaijer/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/ukexom_2021/</loc>
     <lastmod>2021-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/ska_2021/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/alexander-julian-bohn/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/andrea-banzatti/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/anibal-estuardo-sierra-morales/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/cathie-clarke/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/charles-law/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/christian-rab/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/christophe-pinte/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/daniel-james-price/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/david-wilner/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-jwst-prop-2153-c/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/edwin-anthony-bergin/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/gabriele-cugno/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/greta-guidi/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-mnras-501-3427-r/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/ilse-cleeves/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/jennifer-bergner/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/john-david-ilee/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/judit-szulagyi/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/karin-oberg/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/marco-tazzari/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/markus-johannes-bonse/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/mihkel-kama/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/polychronis-alexandros-patapis/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/romane-hanna-aurelie-le-gal/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/sascha-patrick-quanz/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/stefano-facchini/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-jwst-prop-2025-o/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/thomas-k.-henning/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/tomas-stolker/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/valentin-christiaens/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/viviana-guzman/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/accretion-discs/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/alexander-julian-bohn/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/andrea-banzatti/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/anibal-estuardo-sierra-morales/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/cathie-clarke/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/charles-law/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/christian-rab/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/christophe-pinte/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/circumstellar-matter/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/daniel-james-price/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/david-wilner/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-jwst-prop-2153-c/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/edwin-anthony-bergin/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/gabriele-cugno/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/greta-guidi/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-mnras-501-3427-r/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/ilse-cleeves/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/jennifer-bergner/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/john-david-ilee/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/judit-szulagyi/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/karin-oberg/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/marco-tazzari/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/markus-johannes-bonse/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/mihkel-kama/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/planets-and-satellites-formation/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/polychronis-alexandros-patapis/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/romane-hanna-aurelie-le-gal/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/sascha-patrick-quanz/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/stefano-facchini/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/submillimetre-planetary-systems/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-jwst-prop-2025-o/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/thomas-k.-henning/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/tomas-stolker/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/valentin-christiaens/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/viviana-guzman/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2021-nat-as-5-684-b/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/project/coms/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/ewine-f.-van-dishoeck/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/james-m.-miley/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jeroen-terwisscha-van-scheltinga/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/masanobu-kunitomo/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/michiel-r.-hogerheijde/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/project/maps/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/olja-pani%C4%87/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/shigeru-ida/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2021-mnras-500-4658-m/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/planets-and-satellites-composition/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/shigeru-ida/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2021-mnras-500-4658-m/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/talk/uclan_2020/</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/cassandra-hall/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/izaskun-jim%C3%A9nez-serra/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jason-terry/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/melvin-hoare/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2020-mnras-498-5116-i/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/tyler-l.-bourke/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/planet-disc-interactions/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/radio-continuum-planetary-systems/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/tyler-l.-bourke/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/talk/leiden_2020/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/aleksandra-kuznetsova/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/daniel-j.-price/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/disk-dynamics-collaboration/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/giovanni-rosotti/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jacob-b.-simon/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jeffrey-fung/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/kamber-schwarz/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/miriam-keppler/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/natascha-manger/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/project/ska_discs/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/philip-j.-armitage/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sebastian-perez/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/simon-casassus/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2020-ar-xiv-200904345-d/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/wladimir-lyra/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2020-mnras-495-451-t/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/marija-r.-jankovic/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/thomas-j.-haworth/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/eso_2020/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2020-mnras-493-l-108-b/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-individual-hl-tau/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/maps_2020/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication_types/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2020-iaus-350-463-w/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/planetary-systems-protoplanetary-disks/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/nyc_2019/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/cardiff_2019/</loc>
     <lastmod>2019-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/edin_ifa_2019/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/starformmapper_2019/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/eiji-akiyama/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2019-aa-629-a-75-b/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/shota-notsu/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-individual-hd-100546/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-individual-hd-97048/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/submillimeter-planetary-systems/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2019-ap-j-882-l-31-b/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2019-mnras-487-3998-b/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/r.~a.-booth/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/a.~s.-booth/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.-walsh/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/tags/photometry-millimetric/submm/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-variable/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2019-y-cat-36290075-b/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/fstpii_2019/</loc>
     <lastmod>2019-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/a.-carmona/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/a.-liebhardt/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.-baldovin-saveedra/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.-dominik/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.-pinte/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.-rab/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2019-pasp-131-f-4301-w/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/f.-anthonioz/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/f.-menard/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/i.-kamp/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/j.-greaves/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/l.-rigon/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/l.~b.~f.~m.-waters/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/m.-g%C3%BCdel/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/m.-min/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/n.-thureau/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/o.-dionatos/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/p.-woitke/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/s.-antonellini/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/w.~f.-thi/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/project/myso-submm/</loc>
     <lastmod>2019-05-23T21:38:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/project/planet_comps/</loc>
     <lastmod>2019-05-23T21:38:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/project/hydro-chem/</loc>
     <lastmod>2019-05-23T21:37:52+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/project/inner-discs/</loc>
     <lastmod>2019-05-23T21:37:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/pint_2019/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/a.-liebhart/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/c.-baldovin-saavedra/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2019-aa-625-a-66-d/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/f.-m%C3%A9nard/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/p.-degroote/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/astronomical-databases-miscellaneous/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/c.-baldovin-saavedra/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2019-aa-625-a-66-d/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/f.-m%C3%A9nard/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/p.-degroote/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/talk/ukexom_2019/</loc>
     <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/talk/ska_2019/</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/m.-guedel/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/spectroscopy/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2019-y-cat-36250066-d/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/x-ray-sources/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/a.~c.-boley/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/d.~h.-forgan/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2019-mnras-483-1266-e/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/j.~m.~c.-rawlings/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/m.~g.-evans/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/m.~r.-jankovic/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2019-mnras-482-4673-j/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/p.-caselli/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-mohanty/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/t.~w.-hartquist/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/planetary-systems/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/s.-mohanty/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/submillimetre-stars/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/t.~w.-hartquist/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.~j.-clarke/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2018-ap-j-869-l-24-i/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/ism-individual-objects-g11.92-0.61/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/submillimeter-ism/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/david-qu%C3%A9nard/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/duncan-h.-forgan/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/ken-rice/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2018-ap-j-868-9-q/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/a.-juhasz/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.~m.-johns-krull/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/f.-meru/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/g.-rosotti/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2018-ap-j-866-l-6-c/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/l.-prato/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/m.-kama/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/m.-tazzari/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.-booth/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-facchini/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/planetdisk-interactions/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/r.-booth/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/s.-facchini/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/authors/alessandro-morbidelli/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/alexander-wallace/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/alexandre-gallenne/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/almudena-alonso-herrero/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/amelia-bayo/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/amy-bonsor/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/andrea-chiavassa/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/andrea-isella/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/andreas-morlok/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/attila-juhasz/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/benjamin-pope/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2018-mnras-477-3360-i/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/catherine-espaillat/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/chris-haniff/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/chris-mordasini/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/chris-packham/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/claudia-paladini/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/cristina-ramos-almeida/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/dave-mozurkewich/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/david-ciardi/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/denis-defr%C3%A8re/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/edward-wishnow/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/eric-jensen/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/ernest-michael/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/fabien-baron/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/farzana-meru/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/florentin-millour/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/gaspard-duch%C3%AAne/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/gautum-vasisht/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/gerard-van-belle/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/gerd-weigelt/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/greg-laughlin/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/h.~e.-wheelwright/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jean-surdej/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jean-baptiste-le-bouquin/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jean-francois-gonzalez/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jean-philippe-berger/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/joerg-uwe-pott/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/johan-olofsson/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/john-d.-monnier/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/john-ilee/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/john-young/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/kaitlin-kratter/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/keivan-stassun/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/konrad-tristram/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/lucas-labadie/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/luis-henry-quiroga-nunez/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/makoto-kishimoto/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/mark-reynolds/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/markus-wittkowski/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/matthias-schreiber/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/michael-ireland/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/michael-smith/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/michelle-creech-eakman/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/ming-zhao/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/neal-turner/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/olja-panic/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/peter-tuthill/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2018-spie-10701-e-18-m/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/poshak-gandhi/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/quentin-kral/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/r.-pomohaci/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/rafael-millan-gabet/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/rene-oudmaijer/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/richard-nelson/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/romain-petrov/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/ruobing-dong/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sean-n.-raymond/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sebastian-hoenig/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sebastian-wolf/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sebastian-z%C3%BA%C3%B1iga-fern%C3%A1ndez/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/stefan-kraus/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/stefano-minardi/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/stephen-kane/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/stephen-ridgway/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/stephen-rinehart/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sylvestre-lacour/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/tabetha-boyajian/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/theo-ten-brummelaar/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/wilhelm-kley/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/willem-jan-de-wit/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/zhaohuan-zhu/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/zsolt-regaly/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2018-ap-j-860-l-5-f/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/d.~m.-boneberg/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-bruderer/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2018-mnras-477-325-b/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/brown-dwarfs/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/d.~m.-boneberg/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/s.-bruderer/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-individual-elias-227/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2018-mnras-477-325-b/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/authors/andres-carmona/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/inga-kamp/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2018-cwla-conf-89-k/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/solar-system-and-planetary-formation/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/star-formation/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/stefano-antonellini/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/c.-hall/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2017-mnras-472-189-i/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/w.~k.~m.-rice/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2017-mnras-470-1828-e/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/l.-sz%C5%B1cs/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/r.~h.-durisen/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/s.~j.~d.-purser/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/cathie-j.-clarke/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2017-mnras-469-3994-b/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/nikku-madhusudhan/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/planets-and-satellites-atmospheres/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/planets-and-satellites-individual-jupiter/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/attila-juh%C3%A1sz/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2017-ap-j-839-l-24-m/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2017-mnras-464-4721-f/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/j.~r.-fairlamb/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/m.~e.-van-den-ancker/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-early-type/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/techniques-spectroscopic/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2017-sman-23-2-i/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/qizhou-zhang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2016-mnras-462-4386-i/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/q.-zhang/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2016-mnras-463-957-f/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/radio-continuum-stars/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2016-mnras-463-957-f/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-individual-g11.92-0.61/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/community-authors/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/dominika-m.-boneberg/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2016-pasa-33-53-h/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/guillaume-laibe/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jean-fran%C3%A7ois-gonzalez/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/mark-a.-hutchison/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/peter-woitke/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/subhanjoy-mohanty/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/takeru-suzuki/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/magnetohydrodynamics-mhd/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/mark-a.-hutchison/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/peter-woitke/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/planetary-systems-formation/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/subhanjoy-mohanty/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/takeru-suzuki/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/authors/alexis-matter/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/arnaud-pierens/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/bertram-bitsch/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/clement-baruteau/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/david-buscher/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/eric-l.~n.-jensen/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/frederic-masset/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/gautam-vasisht/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/joshua-pepper/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/j%C3%B6rg-uwe-pott/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/joshua-pepper/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/authors/konrad-r.~w.-tristram/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/luis-henry-quiroga-nu%C3%B1ez/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/matthew-r.-bate/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/michael-j.-ireland/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/phil-armitage/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2016-spie-9907-e-1-kk/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/richard-p.-nelson/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sean-raymond/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sebastian-h%C3%B6nig/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/sijme-jan-paardekooper/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/stephen-r.-kane/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/steve-ridgway/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/tim-j.-harries/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/claudia-cyganowski/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2016-fsms-conf-e-1-i/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2016-y-cat-74530976-f/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2016-aa-586-a-103-w/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/g.-aresu/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/m.-spaans/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/r.-meijerink/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/w.-f.-thi/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/line-formation/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/m.-spaans/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/r.-meijerink/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/w.-f.-thi/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2015-mnras-453-976-f/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/a.~c.-carciofi/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2015-mnras-453-1147-e/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2015-mnras-453-2126-m/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/i.-mendigut%C4%B1%CC%81a/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/r.~g.-vieira/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2015-epjwc-10200009-i/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/jane-s.-greaves/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2015-epjwc-10200001-k/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/project/pp_discussions/</loc>
     <lastmod>2015-05-23T21:38:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/be/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/publication/2014-mnras-445-3723-i/</loc>
-    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/j.-fairlamb/</loc>
-    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/s.-kraus/</loc>
-    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/infrared-stars/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/publication/2014-mnras-445-3723-i/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/j.-fairlamb/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/s.-kraus/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-emission-line/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/b.-davies/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/ism-individual-objects-afgl-2136/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/ism-individual-objects-g082.5682&#43;00.4040/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/ism-individual-objects-iras-18151-1208/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/ism-individual-objects-iras-19065&#43;0526/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/ism-individual-objects-s106-irs4/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/ism-individual-objects-v645-cyg/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/k.-murakawa/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/m.~g.-hoare/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2013-mnras-436-511-m/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/s.~l.-lumsden/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2013-mnras-433-2064-d/</loc>
     <lastmod>2013-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/t.~a.-douglas/</loc>
     <lastmod>2013-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/j.~c.-mottram/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/j.~s.-urquhart/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/l.~t.-maud/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/t.~j.~t.-moore/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2013-prpl-conf-2-b-010-i/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/g.-weigelt/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/h.-wheelwright/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/ism-jets-and-outflows/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/l.~v.-tambovtseva/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2013-aa-554-a-66-c/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/r.-garcia-lopez/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johnilee.github.io/authors/v.~p.-grinin/</loc>
-    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-individual-pv-cep/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://johnilee.github.io/authors/v.~p.-grinin/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnilee.github.io/project/diana/</loc>
     <lastmod>2013-05-23T21:38:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication_types/7/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2013-ph-dt-2-i/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2013-mnras-429-2960-i/</loc>
     <lastmod>2013-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2012-aa-543-a-77-w/</loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-individual-hd-327083/</loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/tags/stars-mass-loss/</loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2011-mnras-417-2950-i/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/publication/2011-iaus-280-p-202-i/</loc>
     <lastmod>2011-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://johnilee.github.io/categories/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/herbig-ae/be/</loc>
+  </url><url>
+    <loc>https://johnilee.github.io/tags/photometry-millimetric/submm/</loc>
   </url>
-  
 </urlset>

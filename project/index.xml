@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on John Ilee</title>
@@ -7,10 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://johnilee.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://johnilee.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>exoALMA</title>
+      <link>https://johnilee.github.io/project/exoalma/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnilee.github.io/project/exoalma/</guid>
+      <description>exoALMA is conducting the first planet hunting campaign in the sub-mm regime - the first to focus on still-forming young planets. The team are working hard to calibrate and analyse the data, and we hope be able to share the results with the community soon.
+You can find out more about the project at the dedicated project website.</description>
+    </item>
     
     <item>
       <title>Unveiling the outermost regions of discs</title>

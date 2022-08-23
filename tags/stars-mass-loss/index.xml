@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stars: mass-loss on John Ilee</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; J. D. Ilee (2009 - {year})</copyright>
-    <lastBuildDate>Sun, 01 Jul 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://johnilee.github.io/tags/stars-mass-loss/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://johnilee.github.io/tags/stars-mass-loss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AMBER and CRIRES observations of the binary sgB[e] star HD 327083: evidence of a gaseous disc traced by CO bandhead emission</title>
       <link>https://johnilee.github.io/publication/2012-aa-543-a-77-w/</link>
