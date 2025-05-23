@@ -9,6 +9,7 @@
 	.image {
 		border-radius: _size(border-radius);
 		border: 0;
+		padding: 5px;
 		display: inline-block;
 		position: relative;
 
@@ -73,13 +74,13 @@
 			}
 		}
 
-		@include breakpoint('<=small') {
+		@include breakpoint(small) {
 			&.main {
 				margin: (_size(element-margin) * 1) 0;
 			}
 		}
 
-		@include breakpoint('<=xsmall') {
+		@include breakpoint(xsmall) {
 			&.main {
 				margin: (_size(element-margin) * 0.75) 0;
 			}

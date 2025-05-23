@@ -46,7 +46,7 @@
 				'transform #{_duration(article)} ease-in-out',
 				'filter #{_duration(article)} ease-in-out'
 			));
-			background-image:		url('../../images/bg.jpg');
+			background-image:		url('../../images/24478368929_d32f48fe70_o.jpg');
 			background-position:	center;
 			background-size:		cover;
 			background-repeat:		no-repeat;
@@ -56,13 +56,13 @@
 		body.is-article-visible & {
 			&:after {
 				@include vendor('transform', 'scale(1.0825)');
-				@include vendor('filter', 'blur(0.2rem)');
+				/// @include vendor('filter', 'blur(0.2rem)');
 			}
 		}
 
-		body.is-preload & {
+		body.is-loading & {
 			&:before {
-				background-color: _palette(bg-alt);
+				background-color:	_palette(bg-alt);
 			}
 		}
 	}
